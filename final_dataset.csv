@@ -1,9 +1,58 @@
 lowercase,forms,correct_spelling,stress,token,sounds,left_sound,correct_target,right_sound,contexts,if_interesting,n_of_variants,class,left_c_v,target_c_v,right_c_v,n_tokens,position,left_if_voiced,right_if_voiced,target_if_voiced,left_mono_di_phthong,right_mono_di_phthong,target_mono_di_phthong
+'fraid,'Fraid 'fraid,I am afraid,3.0,i'm afraid,_|aɪmə|f,_,aɪmə,f,"""What? The last PG Tips? 'Fraid so,"" Crowley swirls his
+I gotta get back."" ""Already?"" ""'Fraid so. M'boss could be
+the very least, for tonight.""Mm-hmm. 'Fraid there's no way you're
+""You’re not Crowley, are you?"" ""'fraid not, no,"" the Doctor
+and catch a few winks, 'fraid. Did take it out
+you at all, is it?” “'fraid so.” Crowley opened his",1.0,2,,_,comb,c,2,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+s'thinking,S'thinking,i was thinking,1.0,was,_|aɪwɑ|z,_,aɪwɑ,z,"his head back and forth. ""S'thinking that..."" The last time",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+'d'like,'d'like,i would like,1.0,i'd,_|aɪwʊ|d,_,aɪwʊ,d,"if you want. But... Mm, 'd'like to do it to",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 m'always,M'always,i am always,1.0,i'm,_|aɪ|m,_,aɪ,m,"to us. Still there though. M'always one step ahead."" His",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
 v'always,V'always,i have always,1.0,i've,_|aɪ|v,_,aɪ,v,"of encouragement into his ear. ""V'always loved you, you know",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
+'preciate,'preciate,i appreciate,3.0,i appreciate,_|aɪə|p,_,aɪə,p,"a tired smile. ""'Course, angel. 'preciate the offer."" He headed
+process, I know, but I 'preciate you doing it for
+dear, ash much as I 'preciate thish, I need to",1.0,1,,_,comb,c,2,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'fore,'fore 'Fore,before,0.0,before,_|bi|f,_,bi,f,"had to be subtle... “ 'Fore what?” He kept his
+needed to get some shut-eye 'fore he was awake too
+I know Crowley'll come back 'fore the thorns make the
+grinning. “Got here five years 'fore you,” he said. “Your",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'coz,'coz,because,0.0,because,_|bɪ|k,_,bɪ,k,"shouldn't leave your books here, 'coz you know I'm gonna",1.0,1,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'sides,'Sides 'sides,besides,0.0,besides,_|bɪ|s,_,bɪ,s,"can do anything about it. 'sides, t's just a rumor.""
+thoughtful being there ever was, 'sides you."" Crowley gave him
+are, whatever- my best friend, 'sides from Scarlett. And at
+their love for the work. 'Sides,"" he shrugged. ""We need
+back in hell's good graces. 'Sides, I'm damn good at
+nimble grace. ""Well... nobody's behaving.”[2] “'Sides, shouldn't waste that stuff,",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'ngel,'ngel,angel,1.0,angel,_|eɪ|n,_,eɪ,n,"darkness to respond. ""Mm.. no, 'ngel."" He mumbled, leaning closer
 ""T'red..."" He whispered. ""G'nna... sleep, 'ngel..."" ""No! No, stop that,
 whispering sweetly to him. ""Mmm 'ngel…"" Crowley murmurs, slowly waking",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
+'orgive,'orgive,forgive me,,forgive,_|f|ə,_,f,ə,"leave yu... I so sorry... 'orgive me..."" To many words",1.0,1,begining of a sentence,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+n'night,N'night,good night,1.0,good,_|gʊd|n,_,gʊd,n,"the side of Aziraphale's head. ""N'night. I'm glad you're home",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+'ow,'ow 'Ow,how,,how,_|h|aʊ,_,h,aʊ,"without hurting his nose further. ""'Ow munny odthur peeble ya
+own supervisor would be like. ""'Ow d'ye keep messing up
+up, it does, somethin' shockin'. 'Ow about you?"" ""Good old
+me, ma'am,"" Agnes interrupted, ""but 'ow exactly am i s'pposed
+said dryly. ""I conquered you, 'ow about that?"" Ligur shook
+two swapped bodies an' shite, 'ow didn't y'notice?'."" Hastur made",1.0,2,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'eey,'Eey,hey,,hey,_|h|eɪ,_,h,eɪ,"especially when he was drunk. ""'Eey---"" Crowley said, a bit
+especially when he was drunk. ""'Eey---"" Crowley said, a bit",1.0,1,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'e,'e 'E,he,,he,_|h|i,_,h,i,"strange little noises, ""Bee-zeb-up thought 'e 'as in-fern-al. How 'diculous
+hint of a chuckle. “Guess 'e knows 'm the best
+wear that getup, didn't I? 'e thinks you're a fairy.""
+said contemptuously to Bagman. “ 'E cannot compete. 'E is
+Bagman. “ 'E cannot compete. 'E is too young.”""I have
+looked at them and frowned,"" 'E wok up from a",1.0,2,begening of the sentence,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'oly,'oly,holy,,holy,_|h|oʊ,_,h,oʊ,"his eyes wide in disbelief. ""'oly 'it!"" He says through",1.0,1,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'ope,'ope,hope so,,hope,_|h|oʊ,_,h,oʊ,"soars through the air. "" 'ope so, we'd 'ave the",1.0,1,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'oo'd,'oo'd,who do,,who,_|h|u,_,h,u,"you?"" ""Hastur?"" Ligur said hesitantly. ""'oo'd yer fink it was?""",1.0,1,would,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ang,'Ang,hang,,hang,_|h|æ,_,h,æ,"was correct - broke in. ""'Ang on,"" he said. ""What
+possibilities. Y'might've mentioned that earlier. 'Ang on, I've got to",1.0,1,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'elo,'Elo 'elo,hello,,hello,_|h|ɛ,_,h,ɛ,"higher on his nose. ""'Elo, 'elo,"" Crowley replied, and felt
+little higher on his nose. ""'Elo, 'elo,"" Crowley replied, and",1.0,2,,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+v'you,V'you,have you,1.0,have,_|hæ|v,_,hæ,v,"before looking over at Aziraphale. ""V'you....... given yourself the bits?""
+before looking over at Aziraphale. ""V'you....... given yourself the bits?""",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+'eello,'eello,hello,1.0,hello,_|hɛ|l,_,hɛ,l,"conversation in the air. "" 'eello, Crowley speaking."" Azirephale let",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+upo',upo',upon the,,upon,_|n|ð,_,n,ð,"* ""I am a man upo' the land, I am",1.0,1,,_,c,c,1,beginning,not_defined,voiced,voiced,not_defined,not_defined,not_defined
 'kay,'kay 'Kay,okey,1.0,okey,_|oʊ|k,_,oʊ,k,"trembling. “'m gonna sleep now, 'kay?” “Of course, dear,” he
 “No. No, not really.” “Ngk, 'kay, then let's -” “I
 do, so– er– hold on, 'kay? I'll help you sort
@@ -12,8 +61,22 @@ nose. ""You hungry now?"" ""Quite."" ""'Kay."" Even with that said,
 properly on the bed. “ 'Kay. Yeah, so err... first,",1.0,2,,_,v,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,diphthong
 'limpics,'limpics,Olympics,1.0,olympics,_|oʊ|l,_,oʊ,l,"to try out for the 'limpics, Pep,"" Adam says. ""Why've",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
 m'i,M'I,am I,1.0,am,_|æ|m,_,æ,m,"his essence by holy steel. ""M'I dying?"" he asks inanely,",1.0,1,am I,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
+'at's,'At's 'at's,that is,,that's,_|ð|æ,_,ð,æ,"""Comforting for ten fucking minutes, 'at's what I'm saying, and
+if I took everything everybody 'at's talked to us said
+But I know some captains 'at's done that, an' it's
+comfortable. ""You don't think so? 'At's wrong w'th you? You",1.0,2,,_,c,v,1,beginning,not_defined,not_defined,voiced,not_defined,monophthong,not_defined
+s'why,S'why s'why,that is why,1.0,that's,_|ðət|s,_,ðət,s,"be dumb, scared animals - s'why the glasses - but
+corner to linger in — s'why I chose it. Usually
+store on fire!"" ""I know, s'why I stopped. I was
+the nebula in Alpha Centuri. S'why I wanted to take
+music. Well, some of it. S'why I'm singing in the
+time to chat with Aziraphale. ""S'why they dropped him there.",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+t'matchmaker,T'Matchmaker,the matchmaker,0.0,the,_|ðə|m,_,ðə,m,"""S'wha' I said, inna it? T'Matchmaker Army's greetest hoor! Get",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+t'soul-name,T'soul-name,the soul,0.0,the,_|ðə|s,_,ðə,s,"Crawly feared he'd fallen asleep. ""T'soul-name... s'not what people call",1.0,1,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+s'nobody,S'nobody,there is nobody,3.0,there,_|ðɛrɪ|z,_,ðɛrɪ,z,"anyone else. ""If you want. S'nobody else to answer to",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 'l'right,'l'right,all right,2.0,all right,_|ɔ|l,_,ɔ,l,"small, rather watery smile. “ 'l'right, then. Andiam.” finis",1.0,1,,_,v,c,2,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
 'lways,'lways,always,1.0,always,_|ɔ|l,_,ɔ,l,is good. Reeeeal good. You 'lways have good taste.” “Sure,1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
+'coursse,'Coursse,of course,0.0,of,_|əv|k,_,əv,k,"didn't you?"", Aziraphale asked. ""No. 'Coursse not."" ""Then why did",1.0,1,hiss,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'bout,'bout 'Bout,about,0.0,about,_|ə|b,_,ə,b,"that transgression didn't warrant... this. ""'Bout time you stopped screaming,""
 hopeful, and he didn't press. ""'Bout... 'bout before. The Fall,
 what time are they arriving?"" ""'Bout,"" he mumbles, ""an hour.""
@@ -57,6 +120,36 @@ wondered what that'd feel like, 'nyway."" ""Don't think making it
 pointlessly. ""Drove me crazy, that. 'Nyway, long shtory short,* five",1.0,2,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
 's'long,'S'long,as long,0.0,as,_|ɛ|z,_,ɛ,z,"mumbled with a self-conscious shrug. ""'S'long as you stop sneezing
 of them, anyway, Ligur thought. 'S'long as they're in a",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
+'cept,'cept 'Cept 'CEPT,except,0.0,except,_|ɪk|s,_,ɪk,s,"CEILING BEARIN’ DOWN ON ME 'CEPT THE STARRY SKY ABOVE
+to get his soul back? 'Cept he didn't tell us
+like Hell,"" Aziraphale informed him. ""'Cept maybe without Raphael hovering,""
+glasses. ""And it was dice."" ""'Cept the other day when
+you're cool.” Aziraphale smiled fondly. ""'cept you."" Crowley smirked back
+the bar. “I've tried everything. 'cept sex. And that's not
+that, y'know? 'S nobody's fault 'cept my stupid brain."" As",1.0,3,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'ceptional,'Ceptional,exceptional,0.0,exceptional,_|ɪk|s,_,ɪk,s,"here they are, 'Gotta commendation! 'Ceptional work!' Whadda I say,",1.0,1,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'scuse,'scuse 'Scuse,excuse,0.0,excuse,_|ɪk|s,_,ɪk,s,"both of their traits. ""... 'scuse me, but did we
+chokes on the cheap canned-alcohol. ""'scuse me?"" he exclaims, scandalized
+a wall. Almost literally. ""Uh, 'scuse me,"" he mumbled, then
+finished. ""Oh, thank you, Adam."" ""'Scuse me, ma'am,"" Agnes worried,
+closed the door after them. ""'Scuse me, ma'am,"" Agnes interrupted,
+person behind the counter's attention. ""'Scuse me, i'd like to",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'ssspect,'ssspect,expect,0.0,expect,_|ɪk|s,_,ɪk,s,"sssserpent,” said Crawly. “I do 'ssspect that would have the",1.0,1,hiss,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'splain,'splain 'Splain,explain,0.0,explain,_|ɪk|s,_,ɪk,s,"'rave' mean in this context?"" ""'Splain later,"" Crowley panted, snapping
+pissed.” *** “Wait wait wait… 'splain it again,” Beelzebub slurred,",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'splode,'splode,explode,0.0,explode,_|ɪk|s,_,ɪk,s,"the same sentiment. ""Not gonna 'splode the bloody thing. It's",1.0,1,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+'shour,'Shour,it is our,1.0,it's,_|ɪts|ɑr,_,ɪts,ɑr,"drunk, 'mdrunk, we're all drunkdrunkdrunkdrunk. 'Shour fault."" ""What'sssss our fault?""",1.0,1,,_,comb,comb,1,beginning,not_defined,not_defined,not_defined,not_defined,not_defined,not_defined
+s'means,S'means,it means,1.0,it,_|ɪt|m,_,ɪt,m,"ago or more. ""...Thanks, angel. S'means a lot."" ""Oh, it's
+the rest of his wine. ""S'means it's not effable!"" he",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+s'nice,s'nice S'nice,it is nice,1.0,it's,_|ɪt|s,_,ɪt,s,"me help. Let me know. “S'nice.” Crowley turned, water sloshing
+“Nuh,” said Crowley. “Should sleep. S'nice.” “I'm sure it is,
+something. ""Well, yeah, I mean. S'nice this time of year.""
+to do this part, but s'nice."" He started to turn
+asks, voice strangely soft. ""Yesss, s'nice."" Crowley can feel the
+being protected by Crowley, was s'nice. ""Aziraphale!"" came a call",1.0,2,,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
+s'was,S'was,it was,1.0,it,_|ɪt|w,_,ɪt,w,"important it was to you."" ""S'was just a car,"" Crowley",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
+s'wrong,S'wrong,it is wrong,1.0,it's,_|ɪtɪ|z,_,ɪtɪ,z,"Trouble was, Ziraphale didn't. No. S'wrong. He liked them well
+sure it was something biblical. ""S'wrong Angel?"" He was well",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 if'n'when,if'n'when,if and when,0.0,if,_|ɪ|f,_,ɪ,f,love to show that off if'n'when they start bringin' dates,1.0,1,,_,v,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,monophthong
 'xactly,'Xactly 'xactly,exactly,0.0,exactly,_|ɪ|g,_,ɪ,g,"""Am still figuring out what 'xactly it even is, dun
 truth. ""...somewhere. don't know where, 'xactly. Patientia can't seem to
@@ -73,15 +166,52 @@ n'sufferable,N'sufferable,insufferable,2.0,insufferable,_|ɪ|n,_,ɪ,n,"grumpily 
 s'there,S'there,is there,1.0,is,_|ɪ|z,_,ɪ,z,"twitched and he drew back. ""S'there anything I can do?""",1.0,1,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
 'sthat,'Sthat 'sthat,is that,1.0,it's,_|ɪ|z,_,ɪ,z,"been so worried."" ""Have you? 'Sthat why you never rang?""
 grinning like a maniac. "" 'sthat your boyfriend?"" he asked.",1.0,2,,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
+'nk,'nk you,thank you,1.0,thank,_|θæ|n,_,θæ,n,"relax for now.” Crowley smiled. “'nk you,” he said, around",1.0,1,,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 why'm,why'm,why I am,0.0,i'm,aɪ|aɪ|m,aɪ,aɪ,m,"of his antique phones. ""See why'm asking you to get",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,diphthong
+i'unno,I'unno,I do not know,1.0,don't,aɪ|doʊ|n,aɪ,doʊ,n,"Crow, such a spoilsport sometimes. I'unno, you maybe want me
+stopped. ""What else?"" ""I said I'unno, okay!... He's a lot
+which parts would that be?"" ""I'unno. Barely remember it. Scarlett",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
+'ouse,'ouse,house,,house,aɪ|h|aʊ,aɪ,h,aʊ,"wind was ""wutherin' about the 'ouse."" Aziraphale read it to
+a potato plant, in my 'ouse, but the other plantsss",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+'ometown,my 'ometown,my hometown,,hometown,aɪ|h|oʊ,aɪ,h,oʊ,"the church group in my 'ometown, miss."" ""Delightful,"" she said,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+'my 'ands,'my 'ands,my hands,,hands,aɪ|h|æ,aɪ,h,æ,"but Felix has got my 'ands full!"" Felix, who looked
+trap. He sm'how got his 'ands on holy water. The",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+i'ave,I'ave,I have,,i have,aɪ|h|æ,aɪ,h,æ,"wings as Dagon snorted back, ""I'ave, she's learned to be",1.0,1,,v,c,v,2,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+'ove,'ove,i love,,i love,aɪ|l|ə,aɪ,l,ə,"mumble out a tiny ""I 'ove 'ou too"" before closing",1.0,1,,v,c,v,2,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+i'eed,I'eed,i need,,need,aɪ|n|i,aɪ,n,i,"thought out. It's an effort. ""I'eed to sober up. This's",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+alrigh',alrigh',alright,,alright,aɪ|t|_,aɪ,t,_,"cottage. ""Ye sure yer wife's alrigh',"" asks the driver as
+just another moment. “I’ll be alrigh',” he promised. “Zira?” “Yes
+stupid. I'm so glad you're alrigh'. I, uh, I'll talk",1.0,1,,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
+midnigh',midnigh',mdnight,,mdnight,aɪ|t|_,aɪ,t,_,lightin' a big bonfire a' midnigh'. Gonna dance naked through,1.0,1,,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
+tonigh'—get,tonigh'—get,tonight,,tonight,aɪ|t|g,aɪ,t,g,"said. ""Now no more trouble tonigh'—get on back to bed.""",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+downrigh',downrigh',downright silly,,downright,aɪ|t|s,aɪ,t,s,"""Bet you lot think I'm downrigh' silly, eh?"" ""We don't",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
+mi'wanna,mi'wanna,might wanna,,might,aɪ|t|w,aɪ,t,w,"the alcohol. ""Like... whaddever... you mi'wanna do... 'fya wanna... dooo",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+righ' away,righ' away,right away,,right,aɪ|t|ə,aɪ,t,ə,"light jest. ""Out. Outta m'flat righ' now,"" groaned Crowley, burying
+good while, ""I'll do that righ' away, m'boy."" He rings
+I'm the one being tempted, righ'? Haven't we established tha'?""",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+migh',migh' just,might just,,might,aɪ|t|ʤ,aɪ,t,ʤ,"and making Wensleydale gag. ""I migh' just do that, lass.",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+arri'e,arri'e,arrive at,,arrive,aɪ|v|æ,aɪ,v,æ,"angel, but I'd like to arri'e at some poi't,"" Crowley",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
 'ccept,'ccept,i accept,0.0,accept,aɪ|ə|k,aɪ,ə,k,"he, Aziraphale, won. ""A'right. I 'ccept."" The angel leaned back",1.0,1,,v,v,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,monophthong
 vi'lation,vi'lation,violation,0.0,violation,aɪ|ə|l,aɪ,ə,l,"Gabriel. ""That's a workplace safety vi'lation,"" Jehoah intoned. ""What shall",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 try'n,try'n,try and figure,0.0,and,aɪ|ə|n,aɪ,ə,n,"before, I reckon. I did try'n figure it out before",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 n'other,try n'other,try another,0.0,another,aɪ|ə|n,aɪ,ə,n,"“Yeah, maybe we should try n'other.” By the time Crowley",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
+s'pect,s'pect,i expect,0.0,expect,aɪ|ɪk|s,aɪ,ɪk,s,"form into nothingness, yes, I s'pect I could—"" ""Let me,""
+very reas'nable, is it, to s'pect me to go acting
+if there's no food?"" ""I s'pect you don't need to",1.0,1,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,not_defined
+s'time,s'time S'time,it is time,1.0,it's,aɪ|ɪt|s,aɪ,ɪt,s,"a fond smile. “You overslept.” “S'time?” “Nearly three. We have
+my, oh dear, I -- s'time to sober uup, I
+my, oh dear, I -- s'time to sober uup, I",1.0,2,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,not_defined
 'xpect,'xpect,i expect,0.0,expect,aɪ|ɪ|k,aɪ,ɪ,k,"""I've been better."" ""Yeah. I 'xpect so."" ""In, ah...in all",1.0,1,,v,v,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,monophthong
 'I 'magine,'I 'magine,I imagine,2.0,imagine,aɪ|ɪ|m,aɪ,ɪ,m,"the humans into sin, I 'magine it's--COME UP."" ""WAS my
 the humans into sin, I 'magine it's--COME UP."" ""WAS my
 over again, on repeat. C'you 'magine spendin' eternity listenin' to",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
+'how 'diculous,how 'diculous,how ridiculous,,ridiculous,aʊ|r|ɪ,aʊ,r,ɪ,"thought 'e 'as in-fern-al. How 'diculous is that?"" ""Crowley dear,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+abou',abou',about,,about,aʊ|t|s,aʊ,t,s,"wumman. Last time she went abou' sayin' this and that
+hi. I've just been thinking abou' that ri-…’ he hiccuped,
+~to warn you~. ""Warn me abou' wha'?"" Aziraphale looked around,",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
+ou' with,ou' with,out with,,out,aʊ|t|w,aʊ,t,w,"then?"" ""Yea, I wan'a hang ou' with u'cle Gabe for
+lad, and I ha' sent ou' one of my ane",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+abou'the,abou'the,about the,,about,aʊ|t|ð,aʊ,t,ð,Crowley interrupted. “Please don't talk abou'the Great Plan.” “I'm not,1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
 how'm,how'm,how am,0.0,am,aʊ|æ|m,aʊ,æ,m,"the bed,"" Aziraphale suggested. ""And how'm I supposed to do
 himself on. “The point is, how'm I supposed to date
 he's just too far…or something, how'm I supposed to know?""",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
@@ -91,7 +221,12 @@ b'bop,b'bop,bebop,1.0,bebop,b|i|b,b,i,b,"it over the table. ""'s b'bop, 't is! N
 b'fore,b'fore,before,2.0,before,b|i|f,b,i,f,"eaten this much b'-- hic-- b'fore. Hic! Feel sstrange. Ssort
 go north! Never been north b'fore!"" ""Nonsense,"" Audrey snapped. ""You're
 to work with Mister Crowley b'fore.” He admitted, “I figured",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+lib'ry,lib'ry,library,0.0,library,b|rɛ|r,b,rɛ,r,"Found him collapsed in the lib'ry again just yesterday! Gonna
+collected your papers in the lib'ry this mornin' and have",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 beb'p,beb'p,bebop,2.0,bebop,b|ɑ|p,b,ɑ,p,"Crowley over the rim. ""Noooo, beb'p! Croooowleeee…"" The demon snickered,",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+prob'ly,prob'ly,probably,0.0,probably,b|əb|l,b,əb,l,"all the time, but I'm prob'ly never gonna get over
+clearly, and I think that's prob'ly what made me want
+just shot harder than I prob'ly have in my whole",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 flibb'ring,flibb'ring,flibbering,0.0,flibbering,b|ə|r,b,ə,r,ought to vomit on th' flibb'ring fuck who jussss threw,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 b'g,B'g b'g,big rocks,1.0,big,b|ɪ|g,b,ɪ,g,"paying attention. ""ROCKS! Big rocks... b'g fiery flaming wrocks…. On
 Tha's your thing: fiery rocks. B'g rocks. From space! But",1.0,2,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -107,13 +242,38 @@ fit to take the wheel. B'sides, you've always been my
 if we're playing ninjas. And b'sides, it's Friday. No school",1.0,2,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 b'tray,b'tray,betray,0.0,betray,b|ɪ|t,b,ɪ,t,"kill me in battle, or b'tray me either, even didn't",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 b'tween,b'tween,between,0.0,between,b|ɪ|t,b,ɪ,t,"young man said. ""Peacef'l coexist'nce b'tween th'people's religion 'nd this",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+'afore,'afore,before,2.0,before,d|bi|f,d,bi,f,"but I grabbed Crowley's books 'afore I did."" ""So, ""
+Don't let them get killed 'afore then!"" Warlock grinned and
+pointed out, ""I've nearly died 'afore, you know. And I'm",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 d'nger,d'nger,danger,1.0,danger,d|eɪ|n,d,eɪ,n,"himself up, ""th' Second's in d'nger, I c'n feel it.""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
+killed'im,KILLED'IM,killed him,,him,d|h|ɪ,d,h,ɪ,"both Crawley...And Ligur- ""THE BASTARD KILLED'IM! HE KILLED LIGUER WIF",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+did'e,did'e,did you,3.0,you,d|ju|ʤ,d,ju,ʤ,"his others words, ""Wot… Wot did'e ju..st say?"" ""I think
+with his condition. ""'Zira? Wha' did'e want?"" Crowley slurred. Aziraphale",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+could''t,could''t,could not,,not,d|n|t,d,n,t,"along Crowley's shoulders. ""Sure I could''t turn you? Not ev'n",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+did't,did't,did not,0.0,didn't,d|nə|t,d,nə,t,"nice - - Nice?!? I did't think I'd ever hear
+interested ;) FD: No, I did't say that. Just curious.
+Sushi sounded good, but he did't want to eat alone.",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+d'worry,D'worry,do not worry,1.0,do not,d|oʊnt|w,d,oʊnt,w,"idiot."" ""No, what? Of—psh, nah. D'worry, angel,"" Crowley stammered, but",1.0,1,,c,comb,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+dun',dun',don't,1.0,don't,d|oʊnt|w,d,oʊnt,w,"have managed and lived. ""I dun' waaaanna, you sssstupid sssacredss",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 y'dun,y'dun Y'dun,you don't,1.0,don't,d|oʊ|n,d,oʊ,n,"you got comin'. But, if y'dun wanna hear it, then
 try that,"" Aziraphale protested. ""And y'dun go an' miracle that
 Gabriels guilty. And I know y'dun do that."" Uriel harrumphed.
 gaze up in his direction. ""Y'dun like ringsss?' he asked,",1.0,2,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
+d'know,d'know,do you know,0.0,do,d|uju|n,d,uju,n,up over her head! And d'know what was underneath?' 'Scarlet,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 d'your,D'your,do your,0.0,do,d|u|j,d,u,j,"yellow-eyed glare to peek overtop. ""D'your superiors know how frivolous",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'we,D'we,do we,0.0,do,d|u|w,d,u,w,"or She wouldn't've let us."" ""D'we even do all that",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+'d'ng,'d'ng,doing,1.0,doing,d|uɪ|ŋ,d,uɪ,ŋ,200 years. - W't 'y 'd'ng 're? - There's been,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+need'em,need'em,need them,,them,d|ð|ɛ,d,ð,ɛ,"of purple rubber gloves. ""You'll need'em. Help me with his",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+'emselves,'emselves,tired themselves,,themselves,d|ð|ɛ,d,ð,ɛ,"they bring it down on 'emselves. And then you came
+they were running around…"" ""Tired 'emselves out,” Crowley shrugged. He'd",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+t'helliehound,t'helliehound,the helliehound,0.0,the,d|ðə|h,d,ðə,h,"year since, since, t'birthday an' t'helliehound, and we're still…"" The",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+t'little,t'Little t'little,the little,0.0,the,d|ðə|l,d,ðə,l,"it."" Crowley replied. ""Only read t'Little Endless, Daddy."" Ariel said
+wasted all tha' time teachin' t'little idiots for nuffin!"" Notziraphale",1.0,2,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+t'other,t'other,the other,0.0,the,d|ðə|ə,d,ðə,ə,"no Frankenstein or myrrh. And t'other one. Ours was the
+weren't here for the finale t'other night."" ""Mister S, you",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
+need'm,need'm,need them,0.0,them,d|ðɛ|m,d,ðɛ,m,"these off, and these, don't need'm whilst we're asleep."" Hastur",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+would'a,would'a,would have guessed,0.0,would've,d|əv|g,d,əv,g,forgive my assumption. I just would'a guessed you were a...friend,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+coulda',coulda',could have just,0.0,could've,d|əv|ʤ,d,əv,ʤ,length of towing equipment. “You coulda' just stuck it in,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 'gainst,'gainst,against,0.0,against,d|ə|g,d,ə,g,"says, gleefully. ""Me too! Insisted 'gainst it though. Slytherin's gotta
 be on OUR side—Our side 'gainst everybody else, s'no matter
 other places, which's a slight 'gainst me and m' rabbits.",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -128,14 +288,30 @@ wand'ring,wand'ring,wandering,0.0,wandering,d|ə|r,d,ə,r,"is the star to every 
 wond'ring,wond'ring,wondering,0.0,wondering,d|ə|r,d,ə,r,"of heaven/ Unto the white-upturned wond'ring eyes/ Of mortals fall
 whole sordid affair. ""I was wond'ring..."" began Crowley cautiously, ""what",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'nyones,need 'nyones,need anyone's,1.0,anyone's,d|ɛ|n,d,ɛ,n,"from Crowley. ""I donn need 'nyones recognition. Only need you.""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+'ncourage,'ncourage,should encourage,0.0,encourage,d|ɪn|k,d,ɪn,k,"its best!"" ""Y'said I should 'ncourage it. 'S what I'm",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+s'efficient,s'efficient,it is efficient,1.0,it's,d|ɪt|s,d,ɪt,s,"researching the whole thing, and s'efficient that way, I guess.""",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 d'd,d'd,did,1.0,did,d|ɪ|d,d,ɪ,d,"mumble that sounded something like, ""d'd h'rt?"" Aziraphale's expression softened.",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'mands,d'mands,demands,0.0,demands,d|ɪ|m,d,ɪ,m,"of notes. ""Got a few d'mands from th'temple at Uppsala,""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'stract,d'stract,distract,0.0,distract,d|ɪ|s,d,ɪ,s,"cup around. ""Don'—don' try t' d'stract me, ol' boyo!"" Aziraphale",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 d'serve,d'serve,deserve,0.0,deserve,d|ɪ|z,d,ɪ,z,"and he was grinning. ""You d'serve th'whole world, angel…"" Aziraphale",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'served,d'served,deserved,0.0,deserved,d|ɪ|z,d,ɪ,z,"little brats got wha' they d'served."" Crowley surprised himself by",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+need'n,need'n,needing,0.0,needing,d|ɪŋ|ð,d,ɪŋ,ð,"fully into his hand, ""Ain't need'n this no more~"" Then
+life isn’t in a shambles need'n to be swept up",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+s'pected,s'pected,they expected,0.0,expected,eɪ|ɪk|s,eɪ,ɪk,s,"in the air aimlessly. ""They s'pected you to give up",1.0,1,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,not_defined
 birthday s'when,birthday s'when,birthday is when,1.0,is,eɪ|ɪ|z,eɪ,ɪ,z,"birthday."" ""No, his first birthday s'when he turns one."" Aziraphale",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
+off'a,off'a,off you,,you,f|_|j,f,_,j,"grumble, ""Get these damned things off'a you..."" as he began",1.0,1,,c,_,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 f'nally,f'nally,finally,1.0,finally,f|aɪ|n,f,aɪ,n,being alive is finally- hic -f'nally gettin’ to me--” He,1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
+'ard,life ''ard,life hard,,hard,f|h|ɑ,f,h,ɑ,"black within. Gabriel made life 'ard for all witches, sorcerers",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+af'er,af'er,after,,after,f|t|ə,f,t,ə,"his robes. ""But not till af'er Professor Flitwick saved me",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 f'rfeit,f'rfeit,forfeit,0.0,forfeit,f|ɔ|r,f,ɔ,r,reacheth. The dragon's hoodlum can f'rfeit nothing and shall returneth,1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+f'fuck's,F'fuck's,for fuck's,0.0,for,f|ər|f,f,ər,f,"but they both kept anyway. ""F'fuck's sake, angel."" Crowley panted.",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+f'gotten,F'gotten,forgotten,0.0,forgotten,f|ər|g,f,ər,g,"then shook his head. ""Can't. F'gotten.” His yellow eyes widened",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+f'you,f'you,"for, if",0.0,for,f|ər|j,f,ər,j,"smiting me, that'd be something f'you to tell the guys
+many parts?"" ""Yeah,joining-- other parts, f'you know what I mean.""
+many parts?"" ""Yeah,joining-- other parts, f'you know what I mean.""",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+comf'table,comf'table,comfortable,0.0,comfortable,f|ər|r,f,ər,r,"very well wait somewhere more comf'table. Get movin'."" He climbed
+into place. ""See about getting'im comf'table, laddie."" Raphael pulled an",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+f'today,f'today,for today,0.0,for,f|ər|t,f,ər,t,"seasoned food. ""Wh'af the plam f'today?"" ""Don't talk with your",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 peacef'l,peacef'l,peaceful,0.0,peaceful,f|ə|l,f,ə,l,"glared at them both. ""So, peacef'l coexist'nce, or do I",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 for'n,for'n,for an,0.0,an,f|ə|n,f,ə,n,"contradicting each other: those were for'n.
 Am not in the mood for'n angel's attempts at flirting",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -153,23 +329,47 @@ work, fer dyin'. Nope, already suff'ring! But th' Son—"" He
 Son go, a'mean. Suff'ring. Him suff'ring fer… fer them. Y'see?""",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 f'nish,f'nish,finish,1.0,finish,f|ɪ|n,f,ɪ,n,"against his shoulder. ""ngh, didn- f'nish,"" Crowley mutters, words muffled",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 gav'me,gav'me,gave me,1.0,gave,g|eɪ|v,g,eɪ,v,"""Hadda sign it when they gav'me the Antichrissst... an' I",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
+reg'lar,reg'lar,regular,0.0,regular,g|jə|l,g,jə,l,"here,"" Adam announced, adding ""my reg'lar dad,"" before Crowley could",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 g'on,G'on,go on,0.0,go on,g|oʊ|ɔ,g,oʊ,ɔ,"sliding a tumbler toward Crowley. ""G'on then! Have a nip!""",1.0,1,,c,v,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,diphthong
 g'back,G'back,go back,1.0,go,g|oʊə|b,g,oʊə,b,"and muttered, ""Shh, 's safe. G'back t'sleep."" Crowley stared down",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 g'head,G'head,go ahead,3.0,go ahead,g|oʊə|h,g,oʊə,h,"Smite me, angel. 'M ready. G'head on with it."" At
 Smite me, angel. 'M ready. G'head on with it. “Wounds",1.0,1,,c,v,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
 g'way,G'way,go away,3.0,go away,g|oʊə|w,g,oʊə,w,"Lord saith, Be not abed."" ""G'way."" ""Do not make me
 tired to start an argument. ""G'way,"" he slurred as Aziraphale",1.0,1,,c,v,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
+g'nna,G'nna g'nna,going to,3.0,going to,g|oʊɪŋtə|t,g,oʊɪŋtə,t,"enjoy doing with Crawley. ""You g'nna to take me to
+isn't it!"" ""T'red..."" He whispered. ""G'nna... sleep, 'ngel..."" ""No! No,",1.0,2,,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+drag'em,drag'em,drag them,,them,g|ð|ɛ,g,ð,ɛ,"a little. ""It's this whole drag'em to Hell business. 'Oh",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 bugg'rall,bugg'rall,bugger all,0.0,bugger,g|ə|r,g,ə,r,"Damnan's... Adam's. Hah. Can't do bugg'rall, can we? Bugg'rit all",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 g't,G't,get,1.0,get,g|ɛ|t,g,ɛ,t,"back door with a yell. ""G't outta here b'fore I",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 g'tting,g'tting,getting,1.0,getting,g|ɛ|t,g,ɛ,t,"into the angel's shoulder. ""Not g'tting better... Too late for",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 'neffable,'neffable,big ineffable,2.0,ineffable,g|ɪ|n,g,ɪ,n,"think. 'S Dad's great big 'neffable plan, issn'it?"" Crowley bit",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 i'gve,I'gve,I give,1.0,give,g|ɪ|v,g,ɪ,v,"managed to find the wall. ""I'gve you a sssecond sshance,""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+g'bye,G'bye,Goodbye,1.0,good,g|ʊd|b,g,ʊd,b,"his succulents. ""Yup."" ""Goodbye, Crowley."" ""G'bye."" Click. The other line",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+g'day,G'day g'day,good day,1.0,good,g|ʊd|d,g,ʊd,d,"an interesting way to say g'day,"" said Adromalech, looking up
+of Francis broke the silence. ""G'day Ms. Ashtoreth."" The dirty
+looking at the demon eagerly. ""G'day ma'am."" one of them
+and a friendly cry of, ""G'day Mr Fell!"" nearly made",1.0,2,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+'g'morning,'G'morning,good morning,1.0,good,g|ʊd|m,g,ʊd,m,"bothering to open his eyes. 'G'morning dear.' Aziraphale whispered through
+'Good morning, Anathema,' Aziraphale started. 'G'morning Zira,' she greeted with",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+g'night,G'night g'night,Good night,1.0,good,g|ʊd|n,g,ʊd,n,"keys he didn't, technically, need. ""G'night, angel."" ""Wait."" Aziraphale staggered
+him."" ""Mmmkay,"" Warlock said, yawning. ""G'night."" ""Good night,"" Ashtoreth whispered,
+curl up on the pillow. ""G'night Angel"" He stared up
+angelic ears can hear. “Ok, g'night angel.” “Sleep well my
+acceptable. ""That was easy. Well g'night angel, think I'll take
+fast to stop itself. ""Say g'night, then,"" Theo distinctly heard",1.0,2,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+g'afternoon,G'afternoon,good afternoon,1.0,good,g|ʊd|æ,g,ʊd,æ,"the light of day. "" G'afternoon,"" Ezra said, rising to",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 g'd,G'd g'd,good,1.0,good,g|ʊ|d,g,ʊ,d,"before he could say anything. ""G'd evening"", he mumbled, still
 beginning to feel sleepy. ""Was g'd at gavotting. Once. Wen'",1.0,2,would,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 h'w,H'w,How,1.0,how,h|aʊ|m,h,aʊ,m,"plan gone to pot. ""Grgkl. H'w much did we drink?""
 plan gone to pot. ""Grgkl. H'w much did we drink?""",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
 he'ya,he'ya,hey you,1.0,hey,h|eɪ|j,h,eɪ,j,"sent me some memories! Oi, he'ya… He's kinda shy is",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
 h're,h're,here,1.0,here,h|i|r,h,i,r,"is not the real threat h're, the shadows hideth a",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+ha'penny,ha'penny,half penny,1.0,half,h|æf|p,h,æf,p,"himself hand the boy a ha'penny and take the offered
+the masses for just a ha'penny, and its contents recount
+already in his hand, a ha'penny from 1901, Vickie and",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+ha',ha',have come,1.0,have,h|æv|k,h,æv,k,"they do belong.” “This old ha' again?!” The leader demanded.
+crazy, not like crazy 'ha- ha' I mean… Dean didn't
+""Aye, me and the jezebel ha' come bearing gifts for",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 h'py,H'py,happy,1.0,happy,h|æ|p,h,æ,p,"first. January. First of January. H'py New Year!"" ""Hurray!"" said",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 h'rse,h'rse,horse,1.0,horse,h|ɔ|r,h,ɔ,r,"thee unable to rideth a h'rse f'r weeks aft'r thee
 thee unable to rideth a h'rse f'r weeks aft'r thee",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -178,11 +378,27 @@ h'lo,h'lo H'lo,hello,1.0,hello,h|ɛ|l,h,ɛ,l,"pounced the demon. ""Ooof! Oh, h'l
 the covers to answer it. ""H'lo… sleepin'... nothin'... yeah, sleep
 Aziraphale's face. ""Oh,"" he said, ""H'lo angel. Care for a
 he waited through the rings. “H'lo? Mom? It’s me, I’m",1.0,2,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+any'athin,any'athin,anything,,anything,i|_|θ,i,_,θ,"three fuck'n legs, tiny as any'athin!"" ""Its not-"" Something dead",1.0,1,,v,_,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
+'arder,'arder,any harder,,harder,i|h|ɑ,i,h,ɑ,"sunshine, don't make this any 'arder than it 'as to",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+she'as,she'as,she has,,has,i|h|ə,i,h,ə,"I tells'er, the more time she'as with your Angel, the",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+see'm,see'm,see him,,him,i|h|ɪ,i,h,ɪ,"birds! That's his fourth smoke, see'm?"" Hastur pointed and Ligur",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 an'thing,an'thing,anything,0.0,anything,i|i|θ,i,i,θ,"because I can’t. Can’t do an'thing.” Aziraphale's golden brows furrowed,
 ""Dunt' be a spoilsport or an'thing."" He looked at them",1.0,1,,v,v,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,monophthong
+gi',gi',give you,,give,i|v|j,i,v,j,"get tae work, afore I gi' ye a skelpin'!"" Anthony",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+e'en,E'en e'en,even,,even,i|v|ɪ,i,v,ɪ,"at him before he whispered, ""e'en so, Crowley. How well
+the blood of myne un-doer, e'en more so. That one,""
+spirit stirreth me to strain; E'en as you will, I",1.0,2,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+any'a,any'a,any of you,0.0,of,i|əv|j,i,əv,j,"Angel could have Tempted ME, any'a you think of that?",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
 n'ything,n'ything,anything,1.0,anything,i|ɛ|n,i,ɛ,n,"he grouses. “Police can’t do n'ything about em.” ‘Sods upstairs
 damp hips. “I never created n'ything that came near your
 hovering.” “Then don’t get me n'ything.” He says striding up",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
+y'been,y'been,you have been,3.0,you have,j|uhæv|b,j,uhæv,b,"Ligur blinked. ""Y'know, I knows y'been all for the war,",1.0,1,,c,comb,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'gotta,y'gotta Y'gotta,you have got to,3.0,you have got to,j|uhæv|g,j,uhæv,g,"the glory of Canadian cuisine. Y'gotta come visit me in
+made his ears burn. ""Well, y'gotta come in me. 'S
+I'm dying here, angel, y'-- y'gotta see that."" ""Stay still,
+peeked his head in, ""Well y'gotta. So get up and",1.0,2,,c,comb,c,4,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'ere,Y'ere y'ere,you were,1.0,you were,j|uw|ə,j,uw,ə,"yellow eyes slid shut. ""Why're y'ere?"" ""I was worried."" ""'S
+said, gesturing vaguely. ""And besides. Y'ere an angel once."" ""Long",1.0,2,,c,comb,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 ye',ye',you,1.0,you,j|u|_,j,u,_,"once he had finished. ""Oh, ye', dreadfully sorry!"" chortled the
 took from 'im! I told ye' , in meh weakness,
 in the cart an' follow ye'. Don't let them get",1.0,1,,c,v,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,monophthong
@@ -235,14 +451,32 @@ about implications of the situation. ""Y'should try sleeping,"" Crowley had
 by a brief cackle. ""Oh, y'should of seen yer face.""",1.0,2,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 y'just,y'just,you just,1.0,you,j|u|ʤ,j,u,ʤ,"sweet, I love it, I... y'just caught me off guard,",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'y'think,d'y'think,do you think,1.0,you,j|u|θ,j,u,θ,"we be ... inviting attention, d'y'think? Taking him back --""",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+ya'bout,ya'bout,you about,3.0,you about,j|uə|b,j,uə,b,"was something I forgot t'tell ya'bout."" ""However,"" said Beelzebub after",1.0,1,,c,comb,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'are,y'are,you are,3.0,you're,j|uə|r,j,uə,r,"Michael swoops down and there y'are. War's over. Everyone fell
+all the world besides methinks y'are dead.” Crowley was staring
+around him. ""You're all right, y'are. Even if you're a...",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'sel,y'sel,yourself,0.0,yourself,j|ɔr|s,j,ɔr,s,was this? “What”— “Dinnae fash y'sel.” Crowly listened closer—there were,1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 yersel',yersel',yourself,0.0,yourself,j|ɔ|r,j,ɔ,r,"Lord's help. Nae, dinna fash yersel', Sorr, nuthin' puts the
 stammering explanation. ""Awa' and rest yersel', take a pill, and",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 yer',yer',your,1.0,your,j|ə|r,j,ə,r,"making Aziraphale profusely apologize. “Stop yer' apologizin’ and get ta’
 ""Don't sit there playing with yer' thumbs, go ahead and",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+y'doubting,Y'doubting,you are doubting,1.0,you're,j|ʊr|d,j,ʊr,d,"like a cosmic see-saw. ""Shuddup!"" ""Y'doubting me, dee- deeee…"" Notziraphale",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'not,Y'not,you are not,1.0,you're,j|ʊr|n,j,ʊr,n,"bought inside the plastic container. ""Y'not gonna eat that?"", he
+fair!"" ""Silly name tho, Crowley. Y'not a crow."" Notziraphale smirked",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'pain,y'pain,you are pain,1.0,you're,j|ʊr|p,j,ʊr,p,"out of here.’ ‘Alright, alright, y'pain in the asssss,’ the",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+y'welcome,Y'welcome,you are welcome,1.0,you're,j|ʊr|w,j,ʊr,w,"""It was a lovely gesture."" ""Y'welcome,"" Crowley says quietly. Aziraphale",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+y'awake,Y'awake,you are awake,1.0,you're,j|ʊr|ə,j,ʊr,ə,"prodding the older demon's nose. ""Y'awake?"" It took a moment,",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 yeh're,yeh're,you are,1.0,you're,j|ʊ|r,j,ʊ,r,"an' sleep several times before yeh're strong enough ta get
 are levels ta tha misery yeh're made ta feel in
 in such a way that yeh're na really sailen, but",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+block'eads,block'eads,blockheads,,blockheads,k|h|ɛ,k,h,k,"doin' hangin' about with these block'eads?"" Ligur chimed. ""They's ain't",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+k'you,k'you,keep you,1.0,keep,k|ip|j,k,ip,j,"at this point. ""J-just tr'd...to k'you safe..."" the angel murmured,",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+ridic'lous,ridic'lous,ridiculous,0.0,ridiculous,k|jə|l,k,jə,l,"eyes, ""is ridiculous."" ""N't as ridic'lous as a pudgy storm-swept",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+exac'ly,exac'ly,exactly,,exactly,k|t|l,k,t,l,"dark liquor more often."" ""Not exac'ly the first time I've
+was full again. ""Not… not exac'ly the word I would",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
 'fter,'fter,after,1.0,after,k|æ|f,k,æ,f,"worries, on our way back 'fter all."" Aziraphale followed Crowley's",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+take'em,take'em,take them,1.0,them,k|ð|ɛ,k,ð,ɛ,"– she wants me to take'em off!"" ""They do?"" Aziraphel
+– she wants me to take'em off!"" ""They do?"" Aziraphel",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 c'mplicated,c'mplicated,complicated,1.0,complicated,k|ɑ|m,k,ɑ,m,"""Don't think making it more c'mplicated will help things. Still",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 practic'ly,practic'ly,practically,0.0,practically,k|ə|l,k,ə,l,"a whole mess. Poor Lillian's practic'ly bedridden from grief. Thaniel's
 say, I'm almost twelve. That's practic'ly grownup. Huh. ... make-believe",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -255,7 +489,41 @@ pleasure she's been looking for. ""C'n I hear that again?""
 she confessed, wide-eyed and sweet-faced. “C'n take 'nother,” Crowley managed.
 aye,"" he grunts. ""Though' so. C'n smell it."" ""Oh, that's",1.0,2,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 sick'ning,sick'ning,sickening,0.0,sickening,k|ə|n,k,ə,n,"hollow voice he speaks, and sick'ning breath, 'A way there",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+look'n,look'n,looking,0.0,looking,k|ɪŋ|d,k,ɪŋ,d,"some dessert and pet, your look'n delicious~"" As if to",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+ligk'n,ligk'n,licking,0.0,licking,k|ɪŋ|j,k,ɪŋ,j,"munny odthur peeble ya godt ligk'n yer negk?"" ""Oh Lord,",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+fuck'n,fuck'n,fucking,0.0,fucking,k|ɪŋ|k,k,ɪŋ,k,"we watched, falling silent~ ""Pppff, fuck'n Hell and Satan, I've
+head and whispered, ""You actually fuck'n cared…"" ""I HAVE a
+then- ""Just sleep here ya fuck'n fish!"" Hastur spoke once",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+jok'n,jok'n,joking,0.0,joking,k|ɪŋ|ə,k,ɪŋ,ə,"the litter. ""Maybe Hastur wasn't jok'n about the killing us",1.0,1,,c,comb,v,1,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
+good'ol,good'ol,good old,,old,l|d|d,l,d,d,"is over… Right? He's just good'ol Dog?"" Brian asked out,",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+ol'fashioned,ol'fashioned,old-fashioned,,old,l|d|f,l,d,f,"next. They did a good ol'fashioned seance, but that was",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+dear'ol,dear'ol,dear old,,old,l|d|m,l,d,m,"if they'd like to see dear'ol mum and da, what",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+tol',tol' me,told,,told,l|d|m,l,d,m,"""He likes you, y'know. He tol' me he didn't know
+the benches. ""I thought I tol' you I was done",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+chil'ren,chil'ren,children,,children,l|d|r,l,d,r,"carriage's outer wall. ""'Ell done, chil'ren!"" Legion cheered. ""Give 'em",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+ol',ol' strategies,old strategies,,old,l|d|s,l,d,s,"origins, sticking to the same ol' strategies of kill, maim,
+and everything'll be fine! Dear ol' dad won't have to
+Crowley giving Heaven a good ol' upheaval while wearing his",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+ol'times,ol'times,old times,,old,l|d|t,l,d,t,"suck. Where have the good ol'times gone, where I could",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+hol',hol',hold on,,hold,l|d|ɔ,l,d,ɔ,"brimstone. The spectre chuckles. ""Wait, hol' on, what?"" Adam again,",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+big'ol,big'ol,big old,,old,l|d|ʤ,l,d,ʤ,"the process! This was one big'ol joke, one both sides
+at all these feathers, a big'ol bird Demon!"" Brian. ""But",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+'umiliation,'umiliation,continual humiliation,,humiliation,l|h|j,l,h,j,"so contemplative. ""Wot? The continual 'umiliation of Belial gettin' his",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+tell'im,tell'im,tell him,,him,l|h|ɪ,l,h,ɪ,"call the flash bastard an' tell'im he can do the
+dinner. If Crowley comes callin', tell'im he can kiss me
+changed, though. Shame I can't tell'im, what with where you",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+hel',hel',help me,,help,l|p|m,l,p,m,"sauntering demon Aziraphale knew. ""'Ziraphl, hel' me. Need… discrpate."" ""Discorporate?""",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+al'ight,al'ight,alright,,alright,l|r|aɪ,l,r,aɪ,"I'll try harder next time, al'ight?"" The small THUMP of",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
+tell'em,tell'em,tell them,,them,l|ð|ɛ,l,ð,ɛ,"29 Chapter 29 ""We don't tell'em, nah. Tell'em not to
+cracks and shit. S'why we tell'em not to ask or
+the man interrupted again. ""You tell'em that. Not that it'll",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+powerful'n,powerful'n,powerful than,0.0,than,l|ðə|n,l,ðə,n,"it either. Would take...angels. More powerful'n me. I'm sorry, Crowley.",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 l'rd,L'rd,lord,1.0,lord,l|ɔ|r,l,ɔ,r,"the eighth day, aft'r our L'rd did create Lighteth and",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+bowl'a,bowl'a,bowl of,0.0,of,l|əv|b,l,əv,b,"with heat! All o'them, big bowl'a bouil...boo..boob...heh, boob. Fish soup,",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+l'yuh,L'yuh,love you,1.0,love,l|əv|j,l,əv,j,"texture turning silky and soft. “L'yuh,” Crowley told Aziraphale's hip,",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+all'a,all'a,all of,0.0,of,l|əv|ð,l,əv,ð,"not about that. Us versus all'a them. Like old times.""",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+hell'a,hell'a,hell of a,0.0,of,l|əv|ə,l,əv,ə,"us, the nights there are hell'a cold!"" ""And well-"" Aza
+""We hit it off~"" ""What's hell'a?"" ""For once.. Damned if",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 compl'cated,compl'cated,complicated,0.0,complicated,l|ə|k,l,ə,k,said. “Not worth it. ‘S compl'cated.” Eli was having none,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 'ccasionally,'ccasionally,style occasionaly,0.0,occasionaly,l|ə|k,l,ə,k,like to change our style 'ccasionally. I wear… I wear,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 probl'm,probl'm,problem,0.0,problem,l|ə|m,l,ə,m,"he answered honestly. ""I've no probl'm w'rings. I jus' think",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -263,9 +531,18 @@ probl'm,probl'm,problem,0.0,problem,l|ə|m,l,ə,m,"he answered honestly. ""I've 
 tail'ring,tail'ring,tailoring,0.0,tailoring,l|ə|r,l,ə,r,"the birds, and the serpent tail'ring abilities so they may",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 l'v,L'v,love you,1.0,love,l|ə|v,l,ə,v,"against him, just barely surfacing. ""L'v yuh,"" he mumbled, mouth",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 scale'v,scale'v,scale of one,1.0,of,l|ə|v,l,ə,v,"onto his feet. ""On a scale'v one ter infinity, 'ow",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+'s'emergency,'s'emergency,it is emergency,1.0,it is,l|ɪt|s,l,ɪt,s,"delivered to the pub?"" ""Well 's'emergency pizza, innit angel."" ""But",1.0,1,,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 'll 'scape,'ll 'scape,will escape,0.0,escape,l|ɪ|s,l,ɪ,s,"for summat to blame. I'll 'scape this time, but one
 have unearned luck now to 'scape the serpent's tongue, we
 his desert and who should 'scape whipping?"" ""I knew you",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+tell'n,tell'n,telling,0.0,telling,l|ɪŋ|h,l,ɪŋ,h,"HERE!!"" ""That's what I've been tell'n blue eyes here, mate!""
+Aza! Last I remembered was tell'n him to stay hiding",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+'lo,'Lo 'lo,look,1.0,look,l|ʊk|_,l,ʊk,_,"golden flash of his eyes. ""'lo, Aziraphale,"" Crowley said. ""I
+above the shop door rings. ""'lo?"" Crowley hears a familiar
+tipped his head towards Sam. ""'lo, Sam."" Sunglasses' head turned,
+tries to dial the number. ""'Lo,"" said Crowley's voice, sudden
+the halo,"" his friend hiccoughed. ""'Lo, 'ziraphale,"" Crowley hissed. ""I've
+Hatter -- well, Margie."" ""Mmmphgh. 'Lo,"" Crowley replied, unfolding himself",1.0,2,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
 m'birthday,m'birthday,my birthday,1.0,my,m|aɪ|b,m,aɪ,b,"jump into his lap in m'birthday suit, then? Not that",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 m'deary,m'deary,my deary,1.0,my,m|aɪ|d,m,aɪ,d,"of his wrist. ""You're hissing, m'deary dear."" The demon flicked",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 m'angel,M'angel,my angel,1.0,my,m|aɪ|eɪ,m,aɪ,eɪ,"did you do to yourself?"" ""M'angel,"" He meant it to",1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,diphthong,diphthong
@@ -289,8 +566,26 @@ m'business,m'very,my very,1.0,my,m|aɪ|v,m,aɪ,v,"stare. ""The thing is, 'ts m'b
 m'waters,m'waters,my waters,1.0,my,m|aɪ|w,m,aɪ,w,"the door. ""Yes, dear?"" ""Think m'waters just broke."" Aziraphale nearly",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 m'by,M'by,maybe,1.0,maybe,m|eɪ|b,m,eɪ,b,"with a bleary, snake-eyed stare. ""M'by, but s'posssible I'm still",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 'm'ke,'M'ke,make,1.0,make,m|eɪ|k,m,eɪ,k,"to his mind. ""All that 'M'ke War Not Love', naw",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
+i'ma,I'ma,I am going to,3.0,i am going to,m|goʊɪŋtə|b,m,goʊɪŋtə,b,"to take his arm. Notes: I'ma be honest, that scene
+her jawline. ""You were right. I'ma pass out now."" She
+wrote any. Chapter 3 Summary: I'ma be honest with you,",1.0,1,,c,comb,c,4,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+i'mma,I'mma,I am going to,3.0,i am going to,m|goʊɪŋtə|t,m,goʊɪŋtə,t,"beautiful fic I just read....so I'mma try my best to
+his face but femme. So I'mma call this a draw.-
+pay your rent anymore. Anyway, I'mma gonna go now. Just",1.0,1,,c,comb,c,4,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+some'ow,some'ow,somehow,,somehow,m|h|aʊ,m,h,aʊ,tell you what. If you some'ow ever end up human,1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
+c'm'ere,C'm'ere,come here,,come here,m|h|i,m,h,i,"to be strong for others. ""C'm'ere, angel,"" he said, opening
+aren’t you a pretty one. C'm'ere, little fellow,” and He",1.0,1,,c,c,v,2,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'e's,'e's 'E's,come he has,,he,m|h|i,m,h,i,"the Demon. "" 'ow come 'e's been feelin' down then?""
+young master Warlock, I presume. 'e's a 'andsome baby, Mrs
+man sniffed. ""That pansy? If 'e's not there then 'e's
+started to scream with rage. ""'E's going ta do himself
+of the city. Hastur shrugs. ""'E's Italian, innit?"" ""Irish."" ""What?
+wondered. The crewmate came closer. “'E's the king of tah",1.0,2,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 m'drunk,m'drunk,me drunk,1.0,me,m|i|d,m,i,d,"it to come out, ""seen m'drunk."" Angelique is already shaking",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 m'acommidation,m'acommidation,me a commendation,1.0,me,m|iə|k,m,iə,k,"this awful place?” “They sen m'acommidation."" ""What?"" ""Bastardsss."" Crowley slumped",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
+some'ore,some'ore,some more,,more,m|m|ɔ,m,m,ɔ,"raspy voice, ""Carry me around some'ore, Hast! That was nice~""",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+no'mo,no'mo,no more,1.0,more,m|oʊr|_,m,oʊr,_,be a hardened tough guy no'mo because now everyone knows,1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+come'er,come'er,come over,1.0,over,m|oʊv|ə,m,oʊv,ə,"rock! Why couldn't HE! ""Oi, come'er, Maggot!"" Hastur snarled, nabbing",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 m'kay,M'kay m'kay,I am okay,1.0,okay,m|oʊ|k,m,oʊ,k,"grip the wheel once more. ""M'kay. Let's go."" ""Did you
 too much longer, you know?"" ""M'kay."" Crowley kept his gaze
 careful, but firm. ""Come on."" ""M'kay,"" Zira mumbled, slowly sliding
@@ -309,29 +604,148 @@ UP."" ""WAS my job. WAS--Not 'nymore --- besides, SEX'ss not",1.0,1,,c,v,c,1,mid
 harm'n,harm'n,harm in,0.0,in,m|ɪ|n,m,ɪ,n,"Complicated?"" ""Iy, I hear'ya, no harm'n my knowning, Crow~ I",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 some 'nitiative,'nitiative,some initiative,2.0,initiative,m|ɪ|n,m,ɪ,n,"time."" ""We can take some 'nitiative,"" Yellow offered as he",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'nstead,'nstead,time instead,2.0,instead,m|ɪ|n,m,ɪ,n,"demons fonnicatin' all the time 'nstead of doing it. Poof!""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+summ'in,summ'in,something,,something,m|θ|ɪ,m,θ,ɪ,"to his friend. ""M'gonna tellya summ'in, ainzzzhul... tellya summ'nawannada tellya",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+sum'n,sum'n,something,0.0,something,m|θɪ|ŋ,m,θɪ,ŋ,door or a telephone or sum'n. I think Uncle Fell,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 n'you,N'you,now you,1.0,now,n|aʊ|j,n,aʊ,j,"and slight head tilt. ""Ha! N'you don't strike me as",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'when,N'when,now when,1.0,now,n|aʊ|w,n,aʊ,w,"pull his lower lid open. ""N'when you wake up I",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'if,N'if,now if,1.0,now,n|aʊ|ɪ,n,aʊ,ɪ,"""Privilege? How's it a privilege? N'if you need company so",1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,diphthong
+roun',roun',round,,round,n|d|_,n,d,_,that. Not the other way roun'. Least if She's really,1.0,1,,c,c,_,1,end,voiced,not_defined,voiced,not_defined,not_defined,not_defined
+an',an' AN',and,,and,n|d|aɪ,n,d,aɪ,"tempt an angel."" ""Sure, yeah, an' I'm shacking up with
+day now, I thought. Me an' you, it'd been maybe
+you quick was all well an' good but the way
+""Naturally,"" agreed Crowley, reluctantly. AH, AN' CROWLEY? THIS WILL OF
+MEEEE! I'M FWAPPING MY WINGS AN' 'M NOT FWYING!"" ""He'll",1.0,2,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
+aroun',aroun',around for,,around,n|d|f,n,d,f,it? Yes. Just... Just wait aroun' for a hopefully swift,1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+me'n'him,me'n'him,me and him,,and,n|d|h,n,d,h,"shoulders. ""Could be ssso happy, me'n'him."" It was quiet in",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+n'yeah,N'yeah,and yes,,and,n|d|j,n,d,j,"shirt, squeezing just a little. ""N'yeah. At least this way
+remain dormant and entirely metaphysical. N'yeah, next thing you know
+carried away over here, but..."" ""N'yeah, this is not getting",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+unnerstan',unnerstan' your,understand your,,understand,n|d|j,n,d,j,"... not that I don't unnerstan' you not saying anything,
+currently in his hand. 'Don't unnerstan' your what-do-you-call-'em, your social",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+'n’,'n’,and command,,and,n|d|k,n,d,k,horrid. So deliciously nasty.” “ 'n’ command me by the,1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+understan',understan' love,understand love,,understand,n|d|l,n,d,l,"I understand that, because I understan' love, y'know? Like with",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+me'n,me'n,me and Mike,,and,n|d|m,n,d,m,You here? C'mon and join me'n Mike over there for,1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+beyon',beyon',beyond me,,beyond,n|d|m,n,d,m,"weah white 'n public is beyon' me. Brave mayn, Fell.",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+bad'n,bad'n,bad and so,,and,n|d|s,n,d,s,"black magic 'n all. Do bad'n so forth."" Another dangerous",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+n',n' N',and,,and,n|d|w,n,d,w,"an air of insult, sputtering. “N' why should I? This
+I put on a Guns N' Roses song at full
+thinks she smart."" Ariel replied, ""N' I'm not stupid."" ""No,
+Callin' yeh a southern pansy, n' such. Weren't right, all
+one a' the candles over, n' it hit sommat."" Aziraphale
+beginning.""Yeah, so. I'll stay here n' hold down the fort",1.0,2,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+n'that,"that, n'that",that and that,,and,n|d|ð,n,d,ð,"Centurion. Aye, sorry about that, n'that, said the Shepherd Boy.",1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+foun',foun',found the,,found,n|d|ð,n,d,ð,... All right.' 'So we foun' the thing. The algae,1.0,1,,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+n'all,lies n'all,lies and all,,and,n|d|ɔ,n,d,ɔ,"when it's at home then?' n'all. She knew it was
+not allthis rrubbish about lies n'all..."" he mumbled, stumbling over",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+un'erstood,un'erstood,understood,,understood,n|d|ə,n,d,ə,"a little huffing noise. ""Never un'erstood th' human's obsession w'diamonds,""",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+won'er,won'er,wonder,,wonder,n|d|ə,n,d,ə,licked it clean. “S'times I won'er how ye’r not returned,1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+measures'n,measures'n,measures and,,and,n|d|ʃ,n,d,ʃ,an' Down Here've upped security measures'n shite. Setting foot into,1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+sssecon',sssecon' chance,second chance,,second,n|d|ʧ,n,d,ʧ,"then. His glare intensified. ""A sssecon' sshanse,"" he said, ""And",1.0,1,hiss,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+when'd,when'd,when did,1.0,did,n|dɪ|d,n,dɪ,d,"this. He kept nodding. ""So when'd you start wearing glasses?""",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+down'ere,down'ere,down here,,here,n|h|i,n,h,i,"told him. ""Just like gettin' down'ere now makes an angel",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'been 'elping,'been 'elping,been helping,,helping,n|h|ɛ,n,h,ɛ,"Monica Foster, I'm just 'ere 'elping my son, Jordan! Jordan!""
+Crowley's books I had been 'elping transcribe. He figured enough",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+know'im,know'im,know him,,him,n|h|ɪ,n,h,ɪ,"settled in,"" said Ligur. ""You know'im."" Aziraphale groaned in sympathy,",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+in'is,in'is,in his,,his,n|h|ɪ,n,h,ɪ,"mites got too much air in'is head, Amph (Amphibian)~"" I",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 an'mor,an'mor,anymore,0.0,anymore,n|i|m,n,i,m,"But the worldssss not endinginging an'mor! Whatthefuck you doin here?""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 an'athin,an'athin,anything,0.0,anything,n|i|θ,n,i,θ,a trash bin! Figured if an'athin he could be used,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+on'y,on'y,only,,only,n|l|i,n,l,i,"the only reason, y'know. Only… on'y bloody reason."" Crowley took
+a mouthful of chewing gum, ""on'y there's some scrawny ginger
+job with the lights. I on'y hope they don't look",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 n'body,N'body,nobody,1.0,nobody,n|oʊ|b,n,oʊ,b,created me to care about? N'body up there listens to,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'more,n'more N'more,no more,1.0,no,n|oʊ|m,n,oʊ,m,"firm despite a slight hiccup. ""N'more talking"". He flopped back
 I can't do anymore? Poof, n'more divine ex — etsa",1.0,2,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
+don'ave,don'ave,do not have,,don't have,n|th|æ,n,th,æ,"almost palpable. ""Human, y'see. They don'ave time at all. And",1.0,1,,c,comb,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
+ain'tcha,ain'tcha,aren't you,0.0,you,n|tju|_,n,tju,_,"“You’re still gonna do that, ain'tcha?” If Aziraphale wasn’t mistaken,
+snorted in disbelief. ""Lucky sons-o'-bitches, ain'tcha?"" Crowley flicked his tongue",1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+don'cha,don'cha,don't you,0.0,you,n|tju|θ,n,tju,θ,"bit of a let down, don'cha think? I mean, you
+see...well, you have to look, don'cha? Can't just let people",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+wan'a,wan'a,want to hang,,to,n|tt|ə,n,tt,ə,"your uncle, then?"" ""Yea, I wan'a hang ou' with u'cle",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
+differn',differn',different,,different,n|t|_,n,t,_,"different?"" ""Ai, but also gifted differn'. He wuhnnit no carnival",1.0,1,,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
+wouldn'ae,wouldn'ae,would not,,wouldn't,n|t|_,n,t,_,"ago, just see if I wouldn'ae!"" ""Nobody asked you,"" Uriel",1.0,1,,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
+wouldn',wouldn',would not,,wouldn't,n|t|b,n,t,b,"""Dunno,"" says Hagrid casually, “He wouldn' take his cloak off.
+I don't know why they wouldn' be."" Adam frowned. ""Worse,",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+wen',wen',went downstairs,,went,n|t|d,n,t,d,"I wan'ed cuddles, so I wen' downstairs t' find you,""",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+don'go,don'go,do not go,,don't,n|t|g,n,t,g,"Ariel asked, confused, ""My fireworks don'go splat."" ""We're back girls!""",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+hadn',hadn',had not,,hadn't,n|t|i,n,t,i,"too easy so far, he hadn' even considered that he",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+aren'chya,aren'chya,aren't you,,aren't,n|t|j,n,t,j,"are ye the sir or aren'chya?"" Aziraphale felt a little",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+don',don',do not,,don't,n|t|w,n,t,w,"panic in his voice. “I don' wan' that at all!”
+could, you know. Try."" ""You don' know, Ana. You don'
+""You don' know, Ana. You don' wan' know. Things I've",1.0,1,,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+couldn',couldn',could not,,couldn't,n|t|ə,n,t,ə,"'Struth. Lasstime I checked, you couldn' abide hanholb—hand—"" ""Shut up,""
+of wine, wild eyed, ""angels couldn' do that, no im-
+angel, he shouldn't, no, he couldn' t keep going on…",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+don'understand,don'understand,do not understand,,don't,n|t|ə,n,t,ə,"your time on sleeping, I don'understand it."" ""Er, shut up.",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+in'eractions,in'eractions,interactions,,interactions,n|t|ə,n,t,ə,"more I see of inter-house in'eractions, the more corroborates my",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+weren',weren',were not up,3.0,weren't,n|t|ə,n,t,ə,"couldn't help. ""Makin sure you weren' up ta anythin."" Shadwell",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wan' it,wan' it,want it,,want,n|t|ɪ,n,t,ɪ,"off his seat. ""N-n-n-no. I wan' it. I-oh-I wan' it.
+""N-n-n-no. I wan' it. I-oh-I wan' it. Been wanting it.
+quiet lovely as well."" ""I wan' it longer, but Daddy",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wan'ed,wan'ed,wanted,,wanted,n|t|ɪ,n,t,ɪ,"I mean, 's wha' I wan'ed. I dunno what's wrong
+his face. ""An', 'n I wan'ed cuddles, so I wen'
+Crowley through bleary eyes. ""Jus' wan'ed you to know."" Crowley",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+t'last,t'last,the last,,the,n|ð|ə,n,ð,ə,"he gets, Crawly gets, in t'last row, school uniform and",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+in'em,in'em,in them,,them,n|ð|ɛ,n,ð,ɛ,"nonsense papers. Had your picture in'em."" Ruby drew a deep",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+t'kitchen,t'kitchen,the kitchen,0.0,the,n|ðə|_,n,ðə,_,"the last. ""I've scones in t'kitchen."" The angel - Aziraphale,",1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+wasn'e,wasn'e, not he,3.0,wasn't he,n|ɑth|i,n,ɑth,i,"he was Lucifer blasted Morningstar, wasn'e? He was the best",1.0,1,,c,comb,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
+n'much,N'much,Not much,0.0,not,n|ɑt|m,n,ɑt,m,"shut his eyes once more. “N'much to do,"" he said",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+canna',canna',cannot wait,0.0,cannot,n|ɑt|w,n,ɑt,w,was done for good! Ah canna' wait to put these,1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+wasn'specting,wasn'specting,was not expecting,3.0,wasn't expecting,n|ɑtɪk|s,n,ɑtɪk,s,"""You're drunk, angel."" ""Sorry. I wasn'specting you."" He took Crowley's",1.0,1,,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 n'rmal,N'rmal,normal,1.0,normal,n|ɔ|r,n,ɔ,r,And when one week passes N'rmal though 't seemeth the,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+didn'cha,didn'cha,did not you,3.0,you,n|ətju|_,n,ətju,_,"really fucked up this time didn'cha?"" … Not a word",1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+wasn',wasn',was not,3.0,wasn't,n|ət|_,n,ət,_,"a modicum of respect."" ""I wasn'..."" was all Crowley could
+as he stepped closer it wasn' t as if Blair
+'too much information' if it wasn' so obvious,"" Pepper commented.",1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+did'n,did'n,did not do,0.0,didn't,n|ət|d,n,ət,d,"curled into Aziraphale's side. ""I did'n,"" he managed to say
+say between heaving breaths. ""I did'n do it, angel, I",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+mightn',mightn',might not,0.0,mightn't,n|ət|h,n,ət,h,"mighta bin a dragon dealer, mightn' he? Anyway, never saw",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+didna',didna',did not,0.0,didn't,n|ət|k,n,ət,k,"really appreciate it if—"" ""I didna' care what ye'd be",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+deffin'ly,deffin'ly,definitely,0.0,definitely,n|ət|l,n,ət,l,"""Maybe sshhhouldn't stay though. Should deffin'ly go to bed. Might",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+doesn' matter,doesn' matter,does not matter,0.0,doesn't,n|ət|m,n,ət,m,"down and continued, ""And it doesn' matter if you don't
+Seems like a lifetime ago, doesn' it?"" Aziraphale's throat closed
+I mean the angel, he doesn' really show it.' 'Oh,",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+dinna',dinna',did not,0.0,didn't,n|ət|s,n,ət,s,"of grumble. ""Can't say I dinna' see it coming thoo.",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+isn'it,isn'it,is not it,,isn't,n|ət|ɪ,n,ət,ɪ,"nice to watch the stars isn'it?"" He then began to
+“My hair is rather wet, isn'it? Been dripping into my",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
+wasn'it,wasn'it,was not it,3.0,wasn't,n|ət|ɪ,n,ət,ɪ,"T'was a really nice day, wasn'it? Love, uhmm, lovely. Children
+Must've been such a bother, wasn'it, to just get down",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 ineff'ble,ineff'ble,ineffable,0.0,ineffable,n|ə|f,n,ə,f,"makin' sense? But tha''s th' ineff'ble plan, ol' boy!"" The",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 'merica,'merica,in america,0.0,america,n|ə|m,n,ə,m,"""Nahhhh. They have it in 'merica."" ""Independence Day…?"" ""Thanksgivin'!"" Aziraphale",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 gen'ral,gen'ral,general,0.0,general,n|ə|r,n,ə,r,"do Good. Just, y'know, your gen'ral nature.” Half a minute",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 inn'cents,inn'cents,innocents,0.0,innocents,n|ə|s,n,ə,s,‘They made me gather the inn'cents. Punished for all the,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 n'thin,N'thin,nothing,1.0,nothing,n|ə|θ,n,ə,θ,close your eyes and relax. N'thin to it. Your room,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 anextraordin'ry,anextraordin'ry,extraordinary,2.0,extraordinary,n|ɛ|r,n,ɛ,r,Children were so polite. And anextraordin'ry young woman. Nice... chap.,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+pin'er down,pin'er,pin it down,1.0,it,n|ɪt|d,n,ɪt,d,"d'ya take a cloud and pin'er dooooown…"" A certain fondness",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+s'ridiculous,s'ridiculous,it is ridiculous,1.0,it's,n|ɪt|s,n,ɪt,s,"the snow, though. ""I mean s'ridiculous, s'stupid, really,"" Crowley said.",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 s'born,s'born,is born,0.0,is,n|ɪ|z,n,ɪ,z,"""When a, a young w'man s'born and her, her parents",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 nuth'n,nuth'n,nothing on,0.0,nothing,n|ɪ|ŋ,n,ɪ,ŋ,"hate the idea. ""I've got nuth'n on for the rest",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+beginn',beginn',beginning,0.0,beginning,n|ɪŋ|t,n,ɪŋ,t,"addressed Michael. ""Hastur here was beginn' to think you weren't",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+burn'n,burn'n,burning in,0.0,burning,n|ɪŋ|ɪ,n,ɪŋ,ɪ,to hope the arse is burn'n in a pit s'mwhere.',1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 so'm,so'm,so i am,1.0,i'm,oʊ|aɪ|m,oʊ,aɪ,m,"Wensley. ""Oh. Right. Hi. Yeah, so'm gonna rest my eyes",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,diphthong
+'ood,'ood,good,,good,oʊ|g|ʊ,oʊ,g,ʊ,"a mouthful of chocolate. ""So 'ood! Mm!"" They cheer and",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'ay,o'ay,okay,,okay,oʊ|k|eɪ,oʊ,k,eɪ,"it would splinter completely. ""It's o'ay,"" Crowley mumbled against his",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+ho'y,ho'y,holy,,holy,oʊ|l|i,oʊ,l,i,"scrunch his nose. ""Revolting thing, ho'y wate' is."" Hastur mutters,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'er,o'er O'er,over,,over,oʊ|v|ə,oʊ,v,ə,"on the wretch who cast O'er him and all he
+the soul's bright morning rose O'er Paradise for me, William!
+they pound, Raising the sound, O'er hill and dale, Telling
+glorious to this night, being o'er my headAs is a
+of glory, Wing your flight o'er all the earth; Ye
+dark, exaggerated tones, “Is sicklied o'er with the pale cast",1.0,2,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erhanging,o'erhanging,overhanging,,overhanging,oʊ|v|ə,oʊ,v,ə,"Guildenstern. “Look you, this brave o'erhanging firmament, this majestical roof",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erpowered,o'erpowered,overpowered,,overpowered,oʊ|v|ə,oʊ,v,ə,no lessThan such could have o'erpowered such force as ours)...”,1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erthrown,o'erthrown,overthrown,,overthrown,oʊ|v|ə,oʊ,v,ə,"""Now my charms are all o'erthrown, and what strength I",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+show'em,show'em,show them,,them,oʊ|ð|ɛ,oʊ,ð,ɛ,"stand up to me! I'll show'em!"" The Demon child could",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+t'one,t'one,the one,0.0,the,oʊ|ðə|w,oʊ,ðə,w,"Son, which ya only heard t'one side of and are
+like for that holiday. Y'know t'one. Silly human one, glorifyin'",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
 throw'n,throw'n,throw an,0.0,an,oʊ|ə|n,oʊ,ə,n,"the shop. ""We'd have t' throw'n entire cow,"" Ligur's voice",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 low'ring,low'ring,lowering,0.0,lowering,oʊ|ə|r,oʊ,ə,r,"nuisance of himself. ""Am I low'ring the spiritual market value",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 show'n,show'n,showing,0.0,showing,oʊ|ɪ|ŋ,oʊ,ɪ,ŋ,"slimy toad, ""Your not even show'n yet and your EONS",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
+go'n,go'n,going on,0.0,going on,oʊ|ɪŋ|ɔ,oʊ,ɪŋ,ɔ,eyes looked around suspiciously. “Whaaaa...whaaaatssss go'n on?” “You fell asleep,1.0,1,,v,comb,v,2,middle,not_defined,not_defined,not_defined,diphthong,monophthong,not_defined
 p'rate,p'rate,pirate,1.0,pirate,p|aɪ|r,p,aɪ,r,"were pushed by. ""Ther's a p'rate!"" chirped one little person
 get to be. ""A fish p'rate!"" ""Sadie hush, that's not",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
+keep'em,keep'em,keep them,,them,p|ð|ɛ,p,ð,ɛ,"follow the rules. Crowley can't keep'em closed."" His body aches",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+prop'ly,prop'ly,properly,0.0,properly,p|ər|l,p,ər,l,"sound. ""You din't even look prop'ly"", slurred Crowley and used
+it all started again, only prop'ly organized,"" Adam said. He",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 comp'ny,comp'ny,company,0.0,company,p|ə|n,p,ə,n,"""And leave ye in the comp'ny of these questionable characters.""",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 happ'n,happ'n,happen,0.0,happen,p|ə|n,p,ə,n,"badly then! ""Oi its been happ'n since well, after we..
 sighed out, ""God, why'd this happ'n to me?"" Suddenly, a
@@ -349,14 +763,38 @@ exp'cted,exp'cted,expected,1.0,expected,p|ɛ|k,p,ɛ,k,"T'foulest o' temptations,
 stup'd,stup'd,stupid,0.0,stupid,p|ɪ|d,p,ɪ,d,"raising an eyebrow. ""D'n't be stup'd. I'm th'person'fication of Sw'd'n.""",1.0,1,would,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 p'culiar,p'culiar,peculiar,0.0,peculiar,p|ɪ|k,p,ɪ,k,"frightened. ""She's bin actin' most p'culiar, sor. Speakin' wicked tongues",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 alr'ght,alr'ght,alright,2.0,alright,r|aɪ|t,r,aɪ,t,"up high on his forehead. ""alr'ght, I'll show yer. Wait",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
+'spite,'spite,despite,0.0,despite,r|dɪ|s,r,dɪ,s,"""Bloody dry air in here 'spite those blasted spray-things,"" said",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+'ere,'ere 'Ere 'ERE,here,,here,r|h|i,r,h,i,"feel warm. ""Oi, get under 'ere,"" he slurred happily, when
+""What, uh, wha' ya doin 'ere?"" They'd never been at
+you. You, you, you... Come 'ere,"" Crowley growled and lazily
+and ...."" ""BRING HIM UP 'ERE! You hear me, boy?!""
+mysterious young woman traveling alone. 'Ere, and she's nicked Billie's
+over and examining his claws. ""'Ere, do you think I
+to work in tormenting subordinates. ""'Ere,"" Ligur said, kicking his",1.0,3,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+per'aps,per'aps,perhaps,,perhaps,r|h|æ,r,h,æ,"your life one day."" ""An' per'aps you ought to shuttup",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'orses,'orses,horses,,horses,r|h|ɔ,r,h,ɔ,"take the car. ""Still prefer 'orses,"" Hastur murmured as they",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+sure 'arry,'arry,sure harry,,harry,r|h|ɛ,r,h,ɛ,"affection, Eggsy smiled. ""Yes, sure 'arry. I'd be glad to.""",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+for'im,for'im,for him,,him,r|h|ɪ,r,h,ɪ,"pockets. ""Y'wanted me t'play nanny for'im, you have to live",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'imself,'imself,for himself,,himself,r|h|ɪ,r,h,ɪ,"swear 'e was gonna shit 'imself,"" the blond was saying,
+say. He wanted Crowley for 'imself. "" ""Why? To have
+been possessed by the devil 'imself, and blessed if Mister",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 err'body,err'body,everybody,0.0,everybody,r|i|b,r,i,b,"years. of worst. Evvvv -- err'body knows that. Deep down.""",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 ver',ver' pretty,very pretty,0.0,very,r|i|p,r,i,p,"angel, feelingly. ""It's, well, it's ver' lewd – not like
 what?"" ""What, dear boy?"" ""You're ver' pretty."" With considerable effort,",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 ever'where,ever'where,everywhere,0.0,everywhere,r|i|w,r,i,w,"squints. “Too bloody many people, ever'where.” The demon's eyes widen",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+mor'ing,mor'ing,morning,,morning,r|n|ɪ,r,n,ɪ,was when I woke this mor'ing... bit weird if I,1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+'nother 'un,'nother 'un,another one,1.0,one,r|wə|n,r,wə,n,"Hey, tenderbar!"" He hiccupped. ""'nother 'un fer him."" ""I'm quite
+Seth. “Aw, he's a smart 'un,” said Danny, drowsily, and
+blindly signed. ""Have a good 'un, I'll just be off",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 where'm,where'm,where am,0.0,am,r|æ|m,r,æ,m,"replied the faceless voice. ""Wha- where'm I?"" ""I think you'd",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+for'em,for'em,for them,,them,r|ð|ɛ,r,ð,ɛ,"the South takes the credit for'em. Bastards."" Nina hesitated, aware",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+better'n,better'n,better than,0.0,than,r|ðə|n,r,ðə,n,"at the nearby corpse. ""Gave better'n I got, though. Dagon
+""I reckon I know myself better'n anybody."" ""But that's not
+could,"" he said. ""I'd look better'n you in it, too.""",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 p'rbly,p'rbly,probably,1.0,probably,r|ɑ|b,r,ɑ,b,"the sofa cushions. ""I ssshould p'rbly go."" Aziraphale just caught",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'better 'en,'en,better on,0.0,on,r|ɔ|n,r,ɔ,n,"to wishful thinking was apparently 'en vogue'. He'd advised many
 Adam's best suits. ""Well, better 'en you anyway, but who",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+matter'o,matter'o fact,matter of fact,0.0,of,r|əv|f,r,əv,f,"picnic, Brother Francis?"" ""As a matter'o fact, I am!"" He",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 hor'ble,hor'ble,horrible,3.0,horrible,r|ə|b,r,ə,b,I seduced did do pretty hor'ble things after. And... annnd.,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 ter'ble,ter'ble,terrible,0.0,terrible,r|ə|b,r,ə,b,that it must'a been a ter'ble shock. So I was,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 pr'fessor,pr'fessor,professor,0.0,professor,r|ə|f,r,ə,f,"too, but he's just a pr'fessor.” “Thanks, Adam,” said Crowley",1.0,1,hiss,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
@@ -373,13 +811,48 @@ first. ""…shou'd we... sober up, dear'st?"" The demon nodded, then",1.0,1,,c,v
 r'lax,R'lax,relax,0.0,relax,r|ɪ|l,r,ɪ,l,"brought him back to reality. “R'lax, angel,” Crowley slurred. He",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 r'member,R'member r'member,remember,0.0,remember,r|ɪ|m,r,ɪ,m,"for the gentler song. ""D'you... r'member how I asked, earlier,
 empty banks and all that). ""R'member that - that -",1.0,2,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+s'cause,S'cause,It is because,0.0,it is because,s|bɪ|k,s,bɪ,k,"skim gently over her breasts. ""S'cause I'm doing all the
+to any markets en route."" ""S'cause I didn't. I've been",1.0,1,,c,comb,c,3,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 s'vn,S'vn,saving,1.0,saving,s|eɪ|v,s,eɪ,v,"probably continue being a mess. ""S'vn t'wrld,"" Crowley mumbled into",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
+this'ere,this'ere,this here,,here,s|h|i,s,h,i,"his black leather jacket, ""Found this'ere mortal spawn in a",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 c'you,C'you,see you,1.0,see,s|i|j,s,i,j,"point, rear - to Aziraphale. ""C'you get my skirt zipper
 and over again, on repeat. C'you 'magine spendin' eternity listenin'",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+as'me,as'me,ask me,,ask,s|k|m,s,k,m,"frabjous ""Bloody stupid if you as'me,"" Ford said. There was",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+juss',juss',just,,just,s|t|b,s,t,b,"ma eyes out and dis juss' been dem news.” Dean
+our own ssside. i thought juss' today, drivin' back. i",1.0,1,hiss,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+mus',mus',must,,must,s|t|b,s,t,b,"her, and attempts suavity. ""You mus' – must be new
+eyes hidden. ""'ello, there. You mus' be the nanny tha'
+""Oh Lord, I'm sorry. I mus' be botherin' you. This",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+mos',mos',most demons,,most,s|t|d,s,t,d,"to know basis only, and mos' demons really don't need
+to see more sooth than mos', quack."" The angel thought",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+almos',almos',almost forgot,,almost,s|t|f,s,t,f,"of the -- ""Oh wait, almos' forgot!"" Crowley was saying.",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+bes',bes',best,,best,s|t|g,s,t,g,"Things I've thought about my bes' friend doin' to me.""
+her. ""All righ', well, I bes' get yeh back ter",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+like--jus',like--jus' like,like just like,,just,s|t|l,s,t,l,"g--someone please, yes angel, just like--jus' like that."" The demon's",1.0,1,,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+firs',firs',first,,first,s|t|p,s,t,p,"not someone to cross. ""The firs' years, Professor McGonagall,"" said
+could Lucifer fall in the firs' place, huh? How? Why
+needed t'call you in the firs' place? I can’t sober",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+jus',jus',just,,just,s|t|s,s,t,s,"all angels, en't we. Demons're jus'... messed up angels. Fallen.
+guilty hopes. ""Good point."" ""Jus'... jus' in general. With a
+should be 'appy, but-but it's jus' so sudden? I think.",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+las',las',last time,,last,s|t|t,s,t,t,"been in Spain. Dunno the las' time I was here.""
+were sayin' the same thing las' night...Nothin's bin done yet,",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+leas',leas',least,,least,s|t|t,s,t,t,"been curious about it at leas' once in all 'f
+been curious about it at leas' once in all 'f
+learn to coexist or at leas' tha's what the inefff-",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+jus'a,jus'a,just a,,just,s|t|ə,s,t,ə,"demon. ""Are you alright?"" ""Eh, jus'a bit of pain"" Crowley",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wors'thing,wors'thing,worst thing,,worst,s|t|θ,s,t,θ,"with me would be the wors'thing ever"", said Crowley, ostensibly",1.0,1,,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+piss'em,piss'em,piss them,,them,s|ð|ɛ,s,ð,ɛ,"but at least we can piss'em off, right?” “There is",1.0,1,hiss,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+worse'n,worse'n,worse than be,0.0,than,s|ðə|n,s,ðə,n,"Crowley drawled. ""One could do worse'n be a swinger of",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+t'name,t'name,the name,0.0,the,s|ðə|n,s,ðə,n,"wine. ""When she. She finds t'name, Crawly, t'name in her
+she. She finds t'name, Crawly, t'name in her soul. And",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 s'rrows,s'rrows,sorrows,1.0,sorrows,s|ɑ|r,s,ɑ,r,"Devil's tail. Though through 700 s'rrows, may thee findeth peace",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 s'ry,S'ry,sorry,1.0,sorry,s|ɑ|r,s,ɑ,r,"brighter, sicker yellow than usual. “S'ry angel,” he said in
 and kissed his burning brow. “S'ry,” Crowley mumbled again. “We're",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 'lright,'lright,it's all right,0.0,all,s|ɔ|l,s,ɔ,l,"feelings left trapped but unwounded-""It's 'lright. I'm scared too."" Crowley",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+s'times,S'times,sometimes,1.0,sometimes,s|əm|t,s,əm,t,thumb and licked it clean. “S'times I won'er how ye’r,1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+s'prised,S'prised s'prised,surprised,0.0,surprised,s|ər|p,s,ər,p,"things, was starldd… started…. schar… s'prised how much they were
+their clothes on the floor. ""S'prised you aren't bothered by",1.0,2,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 sm'how,sm'how,somehow,1.0,somehow,s|ə|m,s,ə,m,snake setting a trap. He sm'how got his 'ands on,1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 s'mething,s'mething,something,1.0,something,s|ə|m,s,ə,m,"of the stiff feeling. ""Need s'mething to drink"", he muttered",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 s'meth'n,s'meth'n,something in,1.0,something in,s|ə|m,s,ə,m,little ball of light or s'meth'n in the shape of,1.0,1,,c,v,c,2,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -401,12 +874,46 @@ s'rpent,s'rpent,serpent,1.0,serpent,s|ə|r,s,ə,r,"Fly. The Fly and destruction.
 s'rpentine,s'rpentine,serpentine,1.0,serpentine,s|ə|r,s,ə,r,black spectacles to hideth his s'rpentine behold” and “the sir,1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 s'rrender,s'rrender,surrender,1.0,surrender,s|ə|r,s,ə,r,"slurred Coxswain Swiper. ""They all s'rrender, soon as hear that",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 'v,likes 'v,likes of you,0.0,of,s|ə|v,s,ə,v,"be 'pposed t' the likes 'v yae."" ""For the last",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+s'entirely,s'entirely,it is entirely,1.0,it is entirely,s|ɪt|s,s,ɪt,s,"dying,"" Crowley snapped back. ""Besides, s'entirely possible my legs are",1.0,1,,c,comb,c,3,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 plac''s,plac''s,place is,0.0,place is,s|ɪ|z,s,ɪ,z,"landing in Paris."" ""Th' crep' plac''s clos'd ... 'think."" He",1.0,1,,c,v,c,2,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+t'red,T'red,tired,1.0,tired,t|aɪə|r,t,aɪə,r,"this most certainly isn't it!"" ""T'red..."" He whispered. ""G'nna... sleep,",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+just'cause,just'cause,just because,0.0,because,t|bɪ|k,t,bɪ,k,"secret- I mean, Ididn'ttellyouatfirst but just'cause I thought you might",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 tak',tak' a,take a,1.0,take,t|eɪ|k,t,eɪ,k,"walk on in silence. “We'll tak' a cup o' kindness
 leavin' theer sacred trust to tak' employment i' th' ""public
 about my loyalties—” O ye'll tak' the high road, and",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,diphthong
+right'ere,right'ere,right here,,here,t|h|i,t,h,i,"some rest, baby, I'll be right'ere."" The demon gently pressed",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+get'im,get'im,get him,,him,t|h|i,t,h,i,"""Are we sure we should get'im? He's not just some",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+av',av',should not have gotten,,have,t|h|æ,t,h,æ,"learned my lesson. I shouldn't' av' gotten so confident."" ""...Crowley,",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ardly,'ardly,hardly,,hardly,t|h|ɑ,t,h,ɑ,"Aziraphale said brightly. ""Policemen? Not 'ardly,"" Handsome said, coming over",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'elp,'elp,could not help,,help,t|h|ɛ,t,h,ɛ,"you, gents, but I couldn't 'elp but notice that you're
+and friendlier again. ""I c'n 'elp yer, Brucie-boy. Wot d'you",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+hit'im,hit'im,hit him,,him,t|h|ɪ,t,h,ɪ,"hadn't changed much- ""Can I hit'im?"" 'Aziraphale' closed his eyes",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+ain't'cha,ain't'cha,ain't you,0.0,you,t|ju|_,t,ju,_,"tell us the truth or ain't'cha?"" Stubborn green eyes met",1.0,1,,c,comb,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,not_defined
+don'tcha,don'tcha,do not you,0.0,you,t|ju|s,t,ju,s,"Just a lovely sorta day, don'tcha say?"" He reached blindly
+asked Crowley. ""Early for that, don'tcha think?"" Adam said around
+about come full circle here, don'tcha think?” “Don't be silly,”",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+it'cha,it'cha,it you wanker,1.0,you,t|ju|w,t,ju,w,"""Such a good mum~"" ""Shut it'cha wanker, ya did this",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+wont'cha,wont'cha,won't you,,you,t|j|u,t,j,u,"the bridesmaids! You will come, wont'cha Ezra?"" ""Of course I",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+not'a,not'a,not to,,to,t|t|ə,t,t,ə,"on them dolphins. And tha's not'a mention them whales!"" He",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+gett'n,gett'n,getting,0.0,getting,t|tɪŋ|_,t,tɪŋ,_,"could be seen. ""Oooh we're gett'n, sick bastard!"" Lenny bellowed",1.0,1,,c,comb,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,not_defined
+get'n,get'n,getting this,0.0,getting,t|tɪŋ|ð,t,tɪŋ,ð,"alright?"" ""Yea. Fine. I'll be get'n this a fresh cut",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 'y,'y,you,1.0,you,t|u|j,t,u,j,over 200 years. - W't 'y 'd'ng 're? - There's,1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 int',int',into this,0.0,into,t|u|ð,t,u,ð,"why your guy turned water int' this stuff."" She chuckled",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+smart'un,smart'un,smart one,,one,t|w|ə,t,w,ə,"that?"" Ligur asked. ""For a smart'un, you speak in circles",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+couldn'ta,couldn'ta,couldn't have known,0.0,have,t|æv|n,t,æv,n,"let it rest there. ""You couldn'ta known anything like this",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+connect'em,connect'em,connect them,,them,t|ð|ɛ,t,ð,ɛ,magnets when you try an' connect'em the wrong way—we jus',1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+out'ere,out'ere,out there,,there,t|ð|ɛ,t,ð,ɛ,"and Hell are you doing out'ere? Where's Dagon?"" By their",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+d'truth,d'truth,the truth,0.0,the,t|ðə|t,t,ðə,t,"these things usually worked. ""Stretched d'truth 'bout fantasies."" ""Did you?""",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+t'ave,t'ave,to have,0.0,to have,t|əh|æ,t,əh,æ,"knife, and then Crowley wanted t'ave a look at it...
+facing a problem that's impossible t'ave happened. Too few people",1.0,1,,c,comb,v,2,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
+oft' been,oft' been,often been,0.0,often,t|ən|b,t,ən,b,"9 As for me, I've oft' been told The heart",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+cert'ly,cert'ly,certainly,0.0,certainly,t|ən|l,t,ən,l,"""Probably your lot, really. Pope's cert'ly a big fan. I'd'n't",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+wouldn'ta,WOULDN'TA wouldn'ta,would not have,0.0,have,t|əv|d,t,əv,d,"of death and decay. ""I WOULDN'TA DIED IF THAT BASTARD
+that he wouldn't, or he wouldn'ta survived fer so long.""",1.0,2,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+lot'a,lot'a,lot of,0.0,lot of,t|əv|eɪ,t,əv,eɪ,"feel that?” “That's a whole lot'a angel way too close,”",1.0,1,,c,comb,v,2,middle,unvoiced,not_defined,not_defined,not_defined,diphthong,not_defined
+might'a,might'a,might have,0.0,might have,t|əv|h,t,əv,h,things after. And... annnd. I might'a helped 'em on to,1.0,1,,c,comb,c,2,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+night'o,night'o horrors,night of horrors,0.0,of,t|əv|h,t,əv,h,"found yourself to me that night'o horrors!"" Crowley gave a",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+a'lotta,A'lotta,a lot of,0.0,a lot of,t|əv|s,t,əv,s,"and their children and mate. ""A'lotta spunk for a fleshy!""",1.0,1,,c,comb,c,3,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 bett'a,bett'a,better,0.0,better,t|ə|_,t,ə,_,"does Crawley's look so much bett'a?"" ""Its a baby car,",1.0,1,,c,v,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,monophthong
 happy'ta,happy'ta,happy to,0.0,to,t|ə|_,t,ə,_,"be friends, Shadewell?"" ""More than happy'ta, Mr. Crow~"" Shadewell spoke",1.0,1,,c,v,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,monophthong
 t'bed,t'bed,to bed,0.0,to,t|ə|b,t,ə,b,"stumbled toward the bedroom “m'going t'bed” Gabriel sat on the
@@ -474,19 +981,40 @@ t'another,T'another,to another,0.0,to,t|ə|ə,t,ə,ə,"idea sparked in his eyes.
 t'show,t'show,to show,0.0,to,t|ə|ʃ,t,ə,ʃ,"Ligur smirked at him. ""Goes t'show how well you pay",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 t'just,t'just,to just,0.0,to,t|ə|ʤ,t,ə,ʤ,"Crowley continued. ""You really ought t'just let me go now,",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 t'think,t'think,to think,0.0,to,t|ə|θ,t,ə,θ,"a really decent guy, come t'think offit."" ""Really?"" Red eyes,",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+'zactly,'Zactly 'zactly,point exactly,0.0,exactly,t|ɪg|z,t,ɪg,z,"me. How fiendish of you."" ""'Zactly. Glad we understand each
+weren't born anywhere."" ""My point 'zactly! So what's to say,""",1.0,2,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 act'n,act'n,acting,0.0,acting,t|ɪ|n,t,ɪ,n,"escaping his mouth. ""Why's he act'n like that?"" Ligur asked",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 right'n'front,right'n'front,right in front,0.0,in,t|ɪ|n,t,ɪ,n,"d'you... d'you put him there, right'n'front of me, if I",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 got't,got't,got it,0.0,it,t|ɪ|t,t,ɪ,t,"He said fondly. ""Think Death got't right. If he, if",1.0,1,,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+lett'n,lett'n,letting,0.0,letting,t|ɪŋ|ə,t,ɪŋ,ə,"angry at'chya, Mr. Crow for lett'n a mere mortal such",1.0,1,,c,comb,v,1,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
+'ear,'ear,you hear,,hear,u|h|i,u,h,i,"sentry duty should. ""Did you 'ear?"" he says as he",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'ad,'ad,you had,,had,u|h|æ,u,h,æ,"askin' fer it."" ""So you 'ad a good day at
+Rebrov. Own this big house, 'ad lots of staff."" ""His
+quick prayer of exasperation. ""...e 'ad a goo' run. Shouldn't...",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eard,'eard,heard,,heard,u|h|ə,u,h,ə,"""No,"" replies Crowley coldly. ""You 'eard me,"" the soldier insists,
+of a embarrassed shuffle. “We 'eard you,” Ligael said pointedly.
+Lust,"" Crowley said tentatively. ""Ahh. 'eard Belial's been lookin' fer",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eavy,'eavy,heavy,,heavy,u|h|ɛ,u,h,ɛ,"carry him up stairs. ""Too 'eavy,"" Crowley muttered, fever-damp forehead",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 you'n,you'n,you and,0.0,and,u|ə|n,u,ə,n,"We're gonna get on great, you'n me."" ""Do you think...maybe
 though. If I'm honest, though, you'n I can probly guess",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 e'nythin,e'nythin,anything,,anything,u|ɛ|n,u,ɛ,n,"can force you to do e'nythin you don't want to
 need. ""I will give you e'nythin you want. You just
 that have to do with e'nythin? I-I can s...s-s..sober up.""",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
+'sploded,'sploded,you exploded,0.0,you exploded,u|ɪk|s,u,ɪk,s,harder against the table. “You 'sploded.” The room was quiet,1.0,1,,v,comb,c,2,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
+s'just-you,s'just-you,it is just,1.0,it's,u|ɪt|s,u,ɪt,s,"I can-think of, aha, you s'just-you look so lovely in",1.0,1,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
 r'you'n,r'you'n,are you in,0.0,are you in,u|ɪ|n,u,ɪ,n,"brain of some fog. ""Wait, r'you'n some kind of troufffble",1.0,1,,v,v,c,3,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 do'n,do'n,doing,0.0,doing,u|ɪ|ŋ,u,ɪ,ŋ,"up you get."" ""Uh...w-wha are… do'n?"" Crowley manages to ask,
 his second attempt. ""Must be do'n somenath'n right."" He tells
 emotions in check. ""Ehhh, Just do'n my job."" Crowley shrugs,",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
+'ou,'ou,you,,you,v|j|u,v,j,u,"pacifier, it sounded like ""Love 'ou, 'Zirafell,"" but it still
+out a tiny ""I 'ove 'ou too"" before closing his",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+have't,have't,have not,,not,v|n|t,v,n,t,"""Let go; by heaven, I'll have't,"" he said, managing to
+Let go; by heaven, I'll have't."" He sank down on
+let go! By heaven, I'll have't."" His expression softened again,",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+ev'thing,ev'thing,everything,0.0,everything,v|ri|θ,v,ri,θ,"a, got a suit 'n ev'thing,” Crowley proclaimed, waving grandly",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 'ctually,'ctually,i've actually,1.0,actually,v|æ|k,v,æ,k,"stop to it. ""But I've 'ctually got a, a diff'rent",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+of'em,of'em,of them,,them,v|ð|ɛ,v,ð,ɛ,"my Hydrangeas. The whole lot of'em are dead."" Aziraphale had
+here to help.” “Y’are one of'em,” slurs Aziraphale. And Crowley",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 trav'lin's,trav'lin's,travelling is,0.0,travelling,v|ə|l,v,ə,l,"darling, but the journey."" ""Mmm- trav'lin's fine, angel, but I'd",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'mericansss,native 'mericansss,native americans,0.0,americans,v|ə|m,v,ə,m,"t'pilgrims, no. But to t'native 'mericansss? Yeah it does, angel.""",1.0,1,hiss,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 giv'n,giv'n,given,0.0,given,v|ə|n,v,ə,n,"hopeful. ""Well, maybe they've finally giv'n up on 't?"" Aziraphale",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -507,6 +1035,13 @@ v'ry,V'ry,very,1.0,very,v|ɛ|r,v,ɛ,r,"able to reach the dagger. ""V'ry much nic
 ev'n,ev'n,even,0.0,even,v|ɪ|n,v,ɪ,n,"I could''t turn you? Not ev'n for one,"" she stroked
 how you interpreted it. ""Don' ev'n know what species t'be.""
 dezipher a puzzle. ""Are ye ev'n drunk?"", he slurred, pointing",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+leave'n,leave'n,leaving,0.0,leaving,v|ɪŋ|_,v,ɪŋ,_,"legs. ""Not eaten, get to leave'n!"" Ligur snipped, making a",1.0,1,,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
+lov'n,lov'n,loving,0.0,loving,v|ɪŋ|h,v,ɪŋ,h,"the one holding him safe, lov'n him up right, feeding",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+hav'n,hav'n,having my,0.0,having,v|ɪŋ|m,v,ɪŋ,m,"the final step. ""Aziraphale is hav'n my baby. Did ya",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+have'n,have'n,having,0.0,having,v|ɪŋ|n,v,ɪŋ,n,"spoke, ""Speak'n big game and have'n not'tin ta show for",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+w'happened,W'happened,what happened,1.0,what,w|ət|h,w,ət,h,"""You're safe. We're both safe."" ""W'happened?"" He closes his eyes
+pinched his eyes shut tightly. ""W'happened?"" ""I..."" Aziraphale looked around,",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+wh're,wh're,what are,1.0,where,w|ət|ə,w,ət,ə,"but no dislike. ""Pl'ing senet; wh're you doin' here?"" Uma",1.0,1,,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 w're,w're W're,were,1.0,were,w|ə|r,w,ə,r,"mud, and so the plants w're drown'd and the garden
 knock on thy door, who w're with thee at the
 a fence. I mean, they w're gonna fall out anyway,
@@ -514,11 +1049,26 @@ when the kissing was finished, ""W're you asleep?"" ""I was,",1.0,2,,c,v,c,1,mid
 w'rds,w'rds,words,1.0,words,w|ə|r,w,ə,r,not the messeng'r. His vile w'rds shall beest his owneth,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 w't,W't,what,1.0,what,w|ə|t,w,ə,t,little over 200 years. - W't 'y 'd'ng 're? -,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 w'never,W'never,whenever,0.0,whenever,w|ɛ|n,w,ɛ,n,"to hear you say it. W'never you want."" 'For eternity",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+w'you,w'you,will you,1.0,will,w|ɪl|j,w,ɪl,j,"breathlessness, thanks to Crowley. “Darling, w'you… can you –,"" he",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 i'wsh,I'wsh,I wish,1.0,wish,w|ɪ|ʃ,w,ɪ,ʃ,"said. ""No,"" Aziraphale agreed sadly. ""I'wsh we had a hotel,""",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 w'th,w'th,with,0.0,with,w|ɪ|θ,w,ɪ,θ,don't think so? 'At's wrong w'th you? You gay or,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+w'diamonds,w'diamonds,with diamonds,0.0,with,w|ɪθ|d,w,ɪθ,d,"""Never un'erstood th' human's obsession w'diamonds,"" he mumbled sloppily. ""Spendin'",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
+w'rings,w'rings,with rings,0.0,with,w|ɪθ|r,w,ɪθ,r,"answered honestly. ""I've no probl'm w'rings. I jus' think diamonds're",1.0,1,,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 w'man,w'man,woman,1.0,woman,w|ʊ|m,w,ʊ,m,"say. ""When a, a young w'man s'born and her, her",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 e'e,e'e,eye,1.0,eye,z|aɪ|_,z,aɪ,_,the saut tear in his e'e They’ve buried him ‘neath,1.0,1,,c,v,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,diphthong
 was'a saying,was'a saying,was i saying,1.0,i,z|aɪ|s,z,aɪ,s,"'em, and I.. wait wha was'a sayin' ?"" ""I have",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
+'eart,'eart,heart,,heart,z|h|ɑ,z,h,ɑ,"Crowley…"" ""Aziraphale?"" ""…Crowley makes your 'eart so light…"" ""Aziraphale."" ""When
+dog saw straight to his 'eart and fell in love
+see straight to a person's 'eart and knows the good",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'orrible,'orrible,horrible,,horrible,z|h|ɔ,z,h,ɔ,"'sad' and 'forlorn', ""It was 'orrible, just siiiimple tragic! He
+""Immaculate? That'sjustyou. Ah, ss, I'm 'orrible."" ""No, but, you've got
+crushin' weight of being an 'orrible little shit wot got",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+has't,has't,has not,,hasn't,z|n|t,z,n,t,"h'rse f'r weeks aft'r thee has't ridden me.” It upsets
+h'rse f'r weeks aft'r thee has't ridden me’?”Crowley’s face snaps
+before, silly Agnes.” “Aye, I has't. ‘Tis a fav'rite of",1.0,1,,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+'pposed,'pposed,was supposed,0.0,supposed,z|sə|p,z,sə,p,"it. ""Aye, ah'll always be 'pposed t' the likes 'v
+""Was there somethin' I was 'pposed to be doin'? Revenging,",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+use'em,use'em,use them,,them,z|ð|ɛ,z,ð,ɛ,"at Gabriel. ""He used to use'em in intimate places."" The",1.0,1,,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 'was boutta,'was boutta,was about to,0.0,about to,z|ə|b,z,ə,b,"brows. ""Already, man?"" ""I was 'boutta finish outside your door",1.0,1,,c,v,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'n'accident,'n'accident,was an accident,0.0,an,z|ə|n,z,ə,n,"explained, ""twice. Thought it was 'n'accident earlier but you just",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 pois'n,pois'n,poison,0.0,poison,z|ə|n,z,ə,n,"way. Hel' me… gun, knife, pois'n, don' care…"" Aziraphale's eyes",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -526,9 +1076,15 @@ reas'nable,reas'nable,reasonable,0.0,reasonable,z|ə|n,z,ə,n,"me. So it's not v
 mis'rable,mis'rable,miserable,0.0,miserable,z|ə|r,z,ə,r,"even allowed to make you mis'rable,"" he grunted, glaring daggers.",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'xample,'xample,as example,0.0,example,z|ɪ|g,z,ɪ,g,I'll be taking you as 'xample and fly over the,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 was'et,was'et,was it,0.0,it,z|ɪ|t,z,ɪ,t,I was out. How long was'et? Shit.' Crowley's looks down,1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+naaty'ol,naaty'ol,nasty old,,nasty old,æ|s|t,æ,s,t,"Hast?"" ""Dear, Almighty, please!"" ""A naaty'ol snake I'd say, Lig!""",1.0,1,,v,c,c,2,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+at'chya,at'chya,at you,,at you,æ|t|j,æ,t,j,"startled, ""She'd be bloody angry at'chya, Mr. Crow for lett'n",1.0,1,,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+a'me,a'me,at me,,at,æ|t|m,æ,t,m,"spread his arms. ""Now look a'me!"" Aziraphale squinted. ""You're a",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+tha''s,tha''s,that is,,that's,æ|t|s,æ,t,s,"'bou'… Not makin' sense? But tha''s th' ineff'ble plan, ol'",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+ha'e,ha'e,have you,,have,æ|v|j,æ,v,j,"get be'ind! How many witches ha'e ye killed, lass?"" Newt
+Shadwell lamented, ""Aye suppose Ah'll ha'e to step in wi'",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
 th'eye,th'eye,the eye,0.0,the,ð|ə|a,ð,ə,a,"couldn't even look me in th'eye."" ""I'd have looked you",1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 t'birthday,t'birthday,the birthday,0.0,the,ð|ə|b,ð,ə,b,"protection. ""One year since, since, t'birthday an' t'helliehound, and we're",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
-t'covens,t'covens,the covens,0.0,the,ð|ə|c,ð,ə,c,"of teenage gangs he called ""t'covens of vile witches an'",1.0,1,,c,v,c,1,middle,voiced,not_defined,not_defined,not_defined,not_defined,monophthong
+t'covens,t'covens,the covens,0.0,the,ð|ə|c,ð,ə,c,"of teenage gangs he called ""t'covens of vile witches an'",1.0,1,,c,v,comb,1,middle,voiced,not_defined,not_defined,not_defined,not_defined,monophthong
 t'damn,t'damn,the damn,0.0,the,ð|ə|d,ð,ə,d,"Spoils of revolution, really. Sold t'damn things, was starldd… started….",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 t'foulest,T'foulest,the foolest,0.0,the,ð|ə|f,ð,ə,f,"and gloves. ""Daft plan, anyway. T'foulest o' temptations, only t'be",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 th'great,th'Great,the great,0.0,the,ð|ə|g,ð,ə,g,"They did it to Alexander th'Great anyway..."" Aziraphale harrumphed, eying",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -558,24 +1114,168 @@ th'unworthy,th'unworthy,the unworthy,0.0,the,ð|ə|ə,ð,ə,ə,"spurns that pati
 spurns That patient merit of th'unworthy takes, When he himself",1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 t'end,t'end,the end,0.0,the,ð|ə|ɛ,ð,ə,ɛ,tongues an' such. Wailin' 'bout t'end o' times. What if,1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 th'inconstant,th'inconstant,the inconstant,0.0,the,ð|ə|ɪ,ð,ə,ɪ,"reliable, unchanging as - well, th'inconstant moon, frankly. They certainly",1.0,1,,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
+getting'im,getting'im,getting him,,him,ŋ|h|i,ŋ,h,i,"gloves into place. ""See about getting'im comf'table, laddie."" Raphael pulled",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ome,'ome,home,,home,ŋ|h|oʊ,ŋ,h,oʊ,"Crowley's ear. ""I'm n' going 'ome, silly. Back to... Back
+you doing when you get 'ome then Mr Fell?"" Adam",1.0,1,,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
+tryin'na,tryin'na help,trying to help,0.0,trying to,ŋ|tə|h,ŋ,tə,h,"the chair and shrugged. ""Only tryin'na help."" ""Who're you going",1.0,1,,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 t'all,t'all,at all,0.0,at all,ŋ|æ|t,ŋ,æ,t,"things had taken). ""Nothin' wrong t'all,"" Crowley agreed, but then",1.0,1,,c,v,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+t'hotel,t'hotel,the hotel,0.0,the,ŋ|ðə|h,ŋ,ðə,h,"things in his chest. ""Legionssssstorming t'hotel?"" Crowley slurred, already half-asleep",1.0,1,,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 'nangel,'nAngel,being an angel,0.0,an,ŋ|ə|n,ŋ,ə,n,more… free. 'S complicated being 'nAngel. You have ta feel,1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
+nothing—s'a,nothing—s'a,nothing it is a,0.0,it is,ŋ|ɪt|s,ŋ,ɪt,s,"before correcting himself. ""No, not nothing—s'a good face, it really",1.0,1,,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+go'ssake,go'ssake,god's sake,,god's sake,ɑ|dz|s,ɑ,dz,s,"mess 'round wit' t'bloody weather, go'ssake!"" Adam opened his mouth",1.0,1,hiss,v,comb,c,2,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
+gotch'u,gotch'u,got you,,got you,ɑ|tj|u,ɑ,tj,u,"""Just like that; s'alright, I gotch'u, angel."" And then, in",1.0,1,,v,comb,v,2,middle,not_defined,not_defined,not_defined,monophthong,monophthong,not_defined
+would'nae,would'nae be,would not be,,would not,ɑ|t|b,ɑ,t,b,"verrry fancy logic there, ye would'nae be a lawyer now",1.0,1,,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wouldna',wouldna' let,would not let,,not,ɑ|t|l,ɑ,t,l,"gone?"" Aziraphale asked cautiously. ""I wouldna' let ye southern nancy
+waving the Thundergun purposefully. ""I wouldna' trust you two Southern",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+a'ight,A'ight a'ight,alright,,alright,ɔ|lr|aɪ,ɔ,lr,aɪ,"thing just for good measure. ""A'ight. Breaks over."" ""Mine isn't,""
+straight up in the air. ""A'ight! Found it!"" ""Fantastic. Can
+shook his head, ""No I'm a'ight dad. Just hot."" He
+jerk his gaze upward. ""You a'ight, boy?"" Under the shadow",1.0,2,,v,comb,v,1,middle,not_defined,not_defined,not_defined,monophthong,diphthong,not_defined
+a'right,A'right a'right,alright,,alright,ɔ|l|r,ɔ,l,r,"don't like something, tell me. A'right? - Alright. - Even
+then down the lane. - A'right, lead me. Tell me,
+back with visible effort. - A'right. Stop. We can't go
+angriest stripes. ""Sorry, dove."" ""s' a'right..."", Crowley slurred. He felt
+to help then piss off, a'right?"" The Man who Never
+exactly his head was[5]. ""It's a'right,"" he said. ""I'm —""",1.0,2,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+mo',mo',more,,more,ɔ|r|_,ɔ,r,_,"anyways, always liked Mary Poppins mo'."" Ligur stated This got
+""He'll be along in a mo',"" Crowley answered, flippantly, fighting
+in the kitchen. ""Just a mo', loves, and we'll have",1.0,1,,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
+wa'er,wa'er,water,,water,ɔ|t|ə,ɔ,t,ə,"dunk a bastard in holy wa'er."" ""Yes."" Beelzebub says, a
+die…now… be dead dead. Hol' wa'er. Need to… discorp'rate first,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+wro'n,wro'n,wrong,,wrong,ɔ|ŋ|_,ɔ,ŋ,_,"Something was extremely wrong. ""Wha's wro'n, who'sit?"" Aziraphale mumbled incoherently",1.0,1,,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
+enjoy'n,enjoy'n,enjoying,,enjoying,ɔɪ|ɪŋ|ð,ɔɪ,ɪŋ,ð,"palm. ""Hey, there, kiddo. You enjoy'n the party too?"" Leaning",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
+'ide,'ide,to hide,,hide,ə|h|aɪ,ə,h,aɪ,"I tole ye not to 'ide 'em awey, wumman!"" ""Well,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'ousekeepah,'ousekeepah,the houskeeper,,houskeeper,ə|h|aʊ,ə,h,aʊ,"wants to speak to the 'ousekeepah,"" she retorted. ""She's busy.""",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'uman,'uman,the human,,human,ə|h|j,ə,h,j,"more incitin' horror in the 'uman soul, though,"" Ligur said,",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+'andsome,'andsome,a handsome,,handsome,ə|h|æ,ə,h,æ,"Warlock, I presume. 'e's a 'andsome baby, Mrs Dowlin."" Brother",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'orseman,'orseman,the horseman,,horseman,ə|h|ɔ,ə,h,ɔ,"out for the night. ""The 'orseman."" That got his attention.",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'urry,'urry,in a hurry,,hurry,ə|h|ə,ə,h,ə,but to leave in a 'urry on that horrible day.,1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eaven,'eaven,the heaven,,heaven,ə|h|ɛ,ə,h,ɛ,"it, fuck, angel where the 'eaven did you learn to
+them writing or whatever the 'eaven you're on about. I'm",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+to'im,to'im,to him,,him,ə|h|ɪ,ə,h,ɪ,"wanker made us do this to'im!"" ""Yes, yes She did,",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+fra',fra',from here,,from,ə|m|h,ə,m,h,make our ain way back fra' here ye ken? So,1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+seve',seve',seven years,,seven,ə|n|j,ə,n,j,"into the Duke's head. ""Fir seve' years, you've tricked Hell
+in the Lesser's gut. ""Fir seve' years, you've lived while",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+ca',ca',can,,can,ə|n|s,ə,n,s,"oor business and then we ca' mak oor ain way
+yeah, but turnsss out they ca' still kill each otha,",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+neve',neve' doing,never doing,,never,ə|r|d,ə,r,d,"Always awful demon, too slick, neve' doing the job right.",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+wate',wate' is,water is,,water,ə|r|ɪ,ə,r,ɪ,"his nose. ""Revolting thing, ho'y wate' is."" Hastur mutters, spinning",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+oddah',oddah' shit,other shit,,other,ə|r|ʃ,ə,r,ʃ,"dem be stoned like no oddah' shit,” Jess, as the",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+whadd'you,whadd'you,what do you,,what do,ə|td|j,ə,td,j,"had there. And those little, whadd'you call 'em? Fidget spinners?",1.0,1,,v,comb,c,2,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
+m'wha,M'wha,I am what,,i am what,ə|t|_,ə,t,_,"his socks. ""You're awake, splendid."" ""M'wha?"" Crowley manages, because this",1.0,1,,v,c,_,3,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
+wha',wha',what,,what,ə|t|_,ə,t,_,"I think. I mean, 's wha' I wan'ed. I dunno
+hadn't spoken yet. ""What, uh, wha' ya doin 'ere?"" They'd
+frankenwords. ""'S'not like anything! Tha's wha' 'm saying!"" Aziraphale said",1.0,1,,v,c,_,1,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
+shouldn'a,shouldn'a,should not,,not,ə|t|b,ə,t,b,"o'er the holidays, or somesuch, shouldn'a be too bloody much",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+bu',bu',but,,but,ə|t|h,ə,t,h,"know, people think it is, bu' 's'not. It's it's own
+""I dunno if yeh've heard, bu' he attacked a student",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+tha',tha' THA',that might,,that,ə|t|m,ə,t,m,"his shoulder. ""See how y'like THA'!"" The Bentley did not
+""Like the mean lady in tha' movie..."" ""Wha' movie?"" ""The
+has been ineffable.” “You ssssay tha' one more time, I'm
+said in a suspicious tone, ""tha' might be fer the",1.0,2,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+'thass,'Thass,that is,,that's,ə|t|s,ə,t,s,hadn't had to pay for. 'Thass why everything I do's,1.0,1,hiss,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+whus',whus',what is,,what's,ə|t|s,ə,t,s,"to it every evening. ""Angel, whus' going on. You okay?""",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+must'a,must'a,must have been,,have,ə|v|b,ə,v,b,I wasn't like that it must'a been a ter'ble shock.,1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+sons-o'-bitches,sons-o'-bitches,sons of bitches,,of,ə|v|b,ə,v,b,"Bobby snorted in disbelief. ""Lucky sons-o'-bitches, ain'tcha?"" Crowley flicked his",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'demon,o'demon,of demon,,of,ə|v|d,ə,v,d,I had some hot hunk o'demon like you sniffing around,1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'hell,o'hell,of hell,,of,ə|v|h,ə,v,h,in my fiendishness. Foul beast o'hell 'n all. Gold stars.,1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+o'kindness,o'kindness,of kidness,,of,ə|v|k,ə,v,k,"""And we'll tak a cup o'kindness yet, for auld lang",1.0,1,hiss,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+o'course,o'course O'course,of course,,of course,ə|v|k,ə,v,k,"her go with a horrifying... ""O'course, love."" For the third
+bitter on his forked tongue. ""O'course you are, you holy
+tone, clearly enjoying Crawly's confusion. ""O'course, so they won't be
+""The way I treated yeh, o'course. Callin' yeh a southern
+to hide, nowadays. ""Yeah, yeah, o'course."" Shadwell grunted. ""Anyway, I'll",1.0,2,,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+should'a,should'a,should have,,have,ə|v|l,ə,v,l,"in disgust. ""I said we should'a left you in the
+his flapping hands down. ""I should'a expected you to like
+You're right. Dumb idea. Worst, should'a never brought it up.""",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'light,o'light,of light,,of,ə|v|l,ə,v,l,"""Oh, y'know, bit o'... bit o'light reading."" Crowell would rather",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+one'a,one'a my,one of my,,of,ə|v|m,ə,v,m,"fuck, I walk by and one'a you is makin' all
+for the bottle. ""Monty is one'a my best friends…I think
+order up! Come oooon people, one'a yous gots to have",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'nudgers,o'nudgers,of nudgers,,of,ə|v|n,ə,v,n,"""BONCOS, BOTH OF 'EM. Pair o'nudgers. Makes ya wanna puke,",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'seconds,o'seconds,of seconds,,of,ə|v|s,ə,v,s,"probably just takes a couple o'seconds for you, but I",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+lotsa',lotsa',lots of time,,lots of,ə|v|t,ə,v,t,"sleep, sleep's not workin' right, lotsa' time to think. Been",1.0,1,,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+tug-o'-war,tug-o'-war,tug of war,,of,ə|v|w,ə,v,w,"It was a game of tug-o'-war at its core, Death
+an inch. A game of tug-o'-war for the survival of
+the universe. A game of tug-o'-war Death was losing. And",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+judge'a,judge'a,judge of,,of,ə|v|ð,ə,v,ð,"one night."" ""Ah'll be the judge'a that,"" Crowley slurred, standing",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'us,o'us,of us,,of,ə|v|ɛ,ə,v,ɛ,"another round of staring. ""One o'us will have t'say 'You've",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+th'mead,th'mead,the mead,0.0,the,ə|ðə|m,ə,ðə,m,"want t'fight? Want t'go to th'mead hall?"" Aziraphale shuddered. ""No,",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
+t'native,t'native,the native,0.0,the,ə|ðə|n,ə,ðə,n,"to t'pilgrims, no. But to t'native 'mericansss? Yeah it does,",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
+t'pilgrims,t'pilgrims,the piligrims,0.0,the,ə|ðə|p,ə,ðə,p,"""Does tha' glorify-"" ""No' to t'pilgrims, no. But to t'native",1.0,1,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
+u'cle,u'cle,uncle,,uncle,ə|ŋ|k,ə,ŋ,k,"I wan'a hang ou' with u'cle Gabe for a bit.""",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
 'ther,'ther,the other,1.0,other,ə|ə|ð,ə,ə,ð,"One gouse to Anathema's, the 'ther to his bookshop in",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 'quisition,'quisition,the inquisition,2.0,inquisition,ə|ɪ|n,ə,ɪ,n,"""Tribunal'a the Holy Order the 'quisition,"" he said. Aziraphale's blood",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
+le'ss,le'ss,let's,,let's,ɛ|t|s,ɛ,t,s,"many demonsss c-hic-can dance” “Pffff, le'ss show ‘em! Let’s show",1.0,1,hiss,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+ge',ge',get to,,get,ɛ|t|t,ɛ,t,t,"""Oh, please tell me I ge' to dunk a bastard",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+le',le' us,let us,,let us,ɛ|t|ɛ,ɛ,t,ɛ,"uninvited guests are saying. ""C'mon, le' us buy ye a",1.0,1,,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+e'rybody,e'rybody,everybody,,everybody,ɛ|v|r,ɛ,v,r,"over his shoulder. ""Climb aboard, e'rybody!"" The teens cheered, before",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+e'ryone,E'ryone,everyone,,everyone,ɛ|v|r,ɛ,v,r,"of tah sea, o' course! E'ryone knows of 'im! 'E's",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+er'rything,er'rything,everything,,everything,ɛ|v|r,ɛ,v,r,"up, 'course She did. Knows er'rything She does. Didn't stop",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+de'il,de'il,devil,,devil,ɛ|v|ə,ɛ,v,ə,times. What if she's the de'il in her? Ah tried,1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+e'er,E'er e'er,ever,,ever,ɛ|v|ə,ɛ,v,ə,"bookcase to look at them. ""E'er since I said ye'd
+and will not, God forfend, E'er push you for fair
+the greatest joy any mortal e'er experienced. They were not
+the second verse. Angels watching, e'er around thee, All through
+too bold,Least thy heart's blood e'er run cold'. It isn’t",1.0,2,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+ne'er-do-wells,ne'er-do-wells,never-do-wells,,never,ɛ|v|ə,ɛ,v,ə,"have a place to keep ne'er-do-wells until they could be
+of them would encounter armed ne'er-do-wells before the euphoria wore
+seeds of rebellion in these ne'er-do-wells-"" he gave the children",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+whate'er,whate'er,whatever,,whatever,ɛ|v|ə,ɛ,v,ə,"his thrallsBy right of war, whate'er his business be,Here in
+as thou fleet'st, And do whate'er thou wilt, swift-footed time.
+demonic reasons, he will spurn whate'er I offer, thinking it",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+where'er,where'er,wherever,,wherever,ɛ|v|ɛ,ɛ,v,ɛ,"go. Evil must be smote where'er it rears its head.""",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+dinnit',dinnit',did not drink,0.0,didn't,ɪ|dnə|t,ɪ,dnə,t,"old vinegar. Eh, hope I dinnit' drink that up...."" he",1.0,1,,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
+be'ind,be'ind,behind,,behind,ɪ|h|aɪ,ɪ,h,aɪ,o' group I can get be'ind! How many witches ha'e,1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'appy,'appy,happy,,happy,ɪ|h|æ,ɪ,h,æ,"""Y' know, I should be 'appy, but-but it's jus' so
+Babylon, ah've never been so 'appy te see ye!"" ""You're",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'oliday,'oliday,holiday,,holiday,ɪ|h|ɑ,ɪ,h,ɑ,"however— ""Oh it's a jolly 'oliday with Crowley…"" ""Aziraphale?"" ""…Crowley",1.0,1,,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+hi'self,hi'self,himself,,himself,ɪ|m|s,ɪ,m,s,at me like the devil hi'self from over the fence,1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+poi't,poi't,point,,point,ɪ|n|t,ɪ,n,t,"like to arri'e at some poi't,"" Crowley chuckles. ""Of course,",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+bi' flash,bi' flash,bit flash,,bit,ɪ|t|s,ɪ,t,s,"Aziraphale said uncertainly. ""'S a bi' flash for you, in'it,
+notice that you're having a bi' of trouble!"" the woman
+if you want something a bi' safer for them, I",1.0,1,,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+'lil,'lil,little,0.0,little,ɪ|tə|l,ɪ,tə,l,"to hiccough, ""build 's a 'lil Cab-in."" Aziraphale gave a",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
+in'it,in'it,is not it,,is not,ɪ|z|n,ɪ,z,n,"a bi' flash for you, in'it, angel?"" ""Yes, well it",1.0,1,,v,c,c,2,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+thi'n,thi'n,thing I,,thing,ɪ|ŋ|aɪ,ɪ,ŋ,aɪ,"He announces loudly ""Most gor...gorg...beutiful thi'n I have ever seen.",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,diphthong,not_defined
+tryin'ta,tryin'ta,trying to,,trying to,ɪ|ŋ|t,ɪ,ŋ,t,"you don't ssspeed it up- tryin'ta be of help 'ere""",1.0,1,,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
 to 'bliterate,to 'bliterate,to obliterate,0.0,obliterate,ɪ|ə|b,ɪ,ə,b,"We persuade management not to 'bliterate the world, we ssssurvive",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 holy'n,holy'n,holy and,0.0,and,ɪ|ə|n,ɪ,ə,n,"caused a variance, 'Cause he's holy'n above my degree. But",1.0,1,,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
+stay'n,stay'n,staying,0.0,staying,ɪ|ɪŋ|w,ɪ,ɪŋ,w,"more built friend. ""He's not stay'n with us!"" Ligur spat
+it work out for ya, stay'n on Earth, huh? -",1.0,1,,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
+wit'ja,wit'ja,with you,,with you,ɪ|θ|j,ɪ,θ,j,"What am I ganna do wit'ja, Lig?"" He asked with",1.0,1,,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wiv',wiv' the,with the,,with,ɪ|θ|ð,ɪ,θ,ð,"Watched,"" Adam said firmly. ""But wiv' the proper words, okay,",1.0,1,,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wi'em,wi'em,with them,1.0,with them,ɪ|θð|ɛ,ɪ,θð,ɛ,"like tho' prissy angelssss. Not wi' 'em 'nymore, y'remember?"" At
+other end. ""There's somethin' amiss wi' my wumman. Last time
+but what business witches've got wi' Christmastide, I haen't a",1.0,1,,v,comb,v,2,middle,not_defined,not_defined,not_defined,monophthong,monophthong,not_defined
 fish'n,fish'n,fish and chips,0.0,and,ʃ|ə|n,ʃ,ə,n,"visit, they have the best fish'n chips here, you know,",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 profesh'nl,profesh'nl,professional,0.0,professional,ʃ|ə|n,ʃ,ə,n,"""S'not profes - profi - profesh'nl to discuss my personal",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 hellish'nfernal,hellish'nfernal,hellish infernal,2.0,infernal,ʃ|ɪ|n,ʃ,ɪ,n,"'Mbad at 'em. Very bad hellish'nfernal demon."" ""Of course dear.""",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+sh' do,sh' do,should do,1.0,should,ʃ|ʊd|d,ʃ,ʊd,d,"Where's Hart Crane's Pulitzer, I sh' like to know? Ten
+on his face. ""Maybe you sh' do it,"" he decided,",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+goo',goo',good run,,good,ʊ|d|r,ʊ,d,r,"of exasperation. ""...e 'ad a goo' run. Shouldn't... b't's'prised attol...",1.0,1,,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+cou',cou',could ever,,could,ʊ|d|ɛ,ʊ,d,ɛ,"up worssse thingsss than I cou' eveh imagine!"" He wished",1.0,1,,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+'luh,'Luh like,look like,,look like,ʊ|k|l,ʊ,k,l,"least a decade both ways. 'Luh like the innothent flower,",1.0,1,,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+pu' into,pu' into,put into,,put into,ʊ|t|ɪ,ʊ,t,ɪ,borin'. No meanin'. No thought pu' into it. Nothin' special,1.0,1,,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 ang'l,ang'l,angel,1.0,angel,ʤ|ə|l,ʤ,ə,l,"growl. ""Mus' nae killslay the ang'l. Agains' orders, kyarr."" Karkat",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 dang'r,dang'r,danger,1.0,danger,ʤ|ə|r,ʤ,ə,r,"h're, the shadows hideth a dang'r, the soil buries all.",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 dang'rous,dang'rous,dangerous,1.0,dangerous,ʤ|ə|r,ʤ,ə,r,"shrugged again. ""It'd be too dang'rous with the eyes."" He",1.0,1,,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 messeng'r,messeng'r,messenger,1.0,messenger,ʤ|ə|r,ʤ,ə,r,the trial. “He'd not the messeng'r. His vile w'rds shall,1.0,1,hiss,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 j'st,J'st,just,1.0,just,ʤ|ɪ|s,ʤ,ɪ,s,"to Aziraphale's chest. ""Not... p'sned. J'st... tired..."" He so desperately",1.0,1,,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
+watch'im,watch'im,watch him,4.0,him,ʧ|h|ɪ,ʧ,h,ɪ,"Lord Beelzebub ordered us to watch'im!"" Hastur assured his much",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+teach'm,teach'm,teach them,1.0,them,ʧ|ðɛ|m,ʧ,ðɛ,m,"out, ""Did their whelper not teach'm ta eat right?"" With",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
+bunch'a,bunch'a,bunch of,0.0,of,ʧ|əv|l,ʧ,əv,l,"Seems nice, right? Have a bunch'a lizards and sun and
+with no problems then a bunch'a adults ought not to",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 cent'ries,cent'ries,centuries,0.0,centuries,ʧ|ə|r,ʧ,ə,r,"the dead, lo these many cent'ries past…"" DON'T YOU DARE…
 go?"" Agnes chuckled. ""Wait'd three cent'ries now, I hast, and",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 nach'ral,nach'ral,natural,0.0,natural,ʧ|ə|r,ʧ,ə,r,"did tell yer! It ain't nach'ral! Send him away!"" ""I",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 watch'n,watch'n,watching,0.0,watching,ʧ|ɪ|ŋ,ʧ,ɪ,ŋ,"that was more fun than watch'n telly news on Witches!""",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+with'im,with'im,with him,1.0,him,θ|h|ɪ,θ,h,ɪ,"Self… Wots that? Wots wrong with'im!?"" Chase asks as Aza
+for'im, you have to live with'im bein' around."" Michael rolled
+had a fuckin' blessed knife with'im?"" ""You don't believe me?""",1.0,1,,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+with'm,with'm,with them,1.0,them,θ|ðɛ|m,θ,ðɛ,m,"""What'sssss happened, what'sss the matter with'm!"" My Lord buzzes in",1.0,1,,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 death'f,death'f,death of,0.0,of,θ|ə|v,θ,ə,v,"Loving you. 'S'going t'be the death'f me."" Reluctant to break",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 'ncre'ble,'ncre'ble,incredible,2.0,incredible,θ|ɪ|n,θ,ɪ,n,"to use plain old oil.""Thth 'ncre'ble,"" Crowley said, just half",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 somethn',somethn',something,0.0,something,θ|ɪ|ŋ,θ,ɪ,ŋ,"humanity?"" asked Aziraphale, thoughtfully. ""Yeah, somethn' like that. And so",1.0,1,,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
+not'tin,not'tin,nothing,1.0,nothing,θ|ɪŋ|t,θ,ɪŋ,t,"""Speak'n big game and have'n not'tin ta show for it-""",1.0,1,,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
+noth'n,noth'n,nothing,1.0,nothing,θ|ɪŋ|ɔ,θ,ɪŋ,ɔ,"""DO...O do they still have noth'n on their walls?"" ""Bare",1.0,1,,c,comb,v,1,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
