@@ -9,23 +9,23 @@ v'always,1.0,i've,_|aɪ|v,_,aɪ,v,_,v,c,1,beginning,not_defined,voiced,not_defin
 wing'cause,0.0,because,_|bɪ|k,_,bɪ,k,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'sides,0.0,besides,_|bɪ|s,_,bɪ,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'ngel,1.0,angel,_|eɪ|n,_,eɪ,n,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
-'orgive,,forgive,_|f|ə,_,f,ə,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'orgive,4.0,forgive,_|f|ə,_,f,ə,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
 n'night,1.0,good,_|gʊd|n,_,gʊd,n,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
-'ow,,how,_|h|aʊ,_,h,aʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
-'ey,,hey,_|h|eɪ,_,h,eɪ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
-'e,,he,_|h|i,_,h,i,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
-'oly,,holy,_|h|oʊ,_,h,oʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
-'ope,,hope,_|h|oʊ,_,h,oʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
-'oo'd,,who,_|h|u,_,h,u,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
-'ang,,hang,_|h|æ,_,h,æ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
-'elo,,hello,_|h|ɛ,_,h,ɛ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ow,4.0,how,_|h|aʊ,_,h,aʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'ey,4.0,hey,_|h|eɪ,_,h,eɪ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'e,4.0,he,_|h|i,_,h,i,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'oly,4.0,holy,_|h|oʊ,_,h,oʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'ope,4.0,hope,_|h|oʊ,_,h,oʊ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,diphthong,not_defined
+'oo'd,4.0,who,_|h|u,_,h,u,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ang,4.0,hang,_|h|æ,_,h,æ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
+'elo,4.0,hello,_|h|ɛ,_,h,ɛ,_,c,v,1,beginning,not_defined,not_defined,unvoiced,not_defined,monophthong,not_defined
 v'you,1.0,have,_|hæ|v,_,hæ,v,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 'eello,1.0,hello,_|hɛ|l,_,hɛ,l,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
-upo',,upon,_|n|ð,_,n,ð,_,c,c,1,beginning,not_defined,voiced,voiced,not_defined,not_defined,not_defined
+upo',4.0,upon,_|n|ð,_,n,ð,_,c,c,1,beginning,not_defined,voiced,voiced,not_defined,not_defined,not_defined
 'kay,1.0,okey,_|oʊ|k,_,oʊ,k,_,v,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,diphthong
 'limpics,1.0,olympics,_|oʊ|l,_,oʊ,l,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,diphthong
 m'i,1.0,am,_|æ|m,_,æ,m,_,v,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,monophthong
-'at's,,that's,_|ð|æ,_,ð,æ,_,c,v,1,beginning,not_defined,not_defined,voiced,not_defined,monophthong,not_defined
+'at's,4.0,that's,_|ð|æ,_,ð,æ,_,c,v,1,beginning,not_defined,not_defined,voiced,not_defined,monophthong,not_defined
 's'right,1.0,that's,_|ðət|s,_,ðət,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 t'matchmaker,0.0,the,_|ðə|m,_,ðə,m,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 t'soul-name,0.0,the,_|ðə|s,_,ðə,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
@@ -70,20 +70,20 @@ s'it,1.0,is,_|ɪ|z,_,ɪ,z,_,v,c,1,beginning,not_defined,voiced,not_defined,not_d
 'nk,1.0,thank,_|θæ|n,_,θæ,n,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 why'm,0.0,i'm,aɪ|aɪ|m,aɪ,aɪ,m,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,diphthong
 i'unno,1.0,don't,aɪ|doʊ|n,aɪ,doʊ,n,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
-'ouse,,house,aɪ|h|aʊ,aɪ,h,aʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
-'ometown,,hometown,aɪ|h|oʊ,aɪ,h,oʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
-'my 'ands,,hands,aɪ|h|æ,aɪ,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
-i'ave,,i have,aɪ|h|æ,aɪ,h,æ,v,c,v,2,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
-'ove,,i love,aɪ|l|ə,aɪ,l,ə,v,c,v,2,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-i'eed,,need,aɪ|n|i,aɪ,n,i,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-alrigh',,alright,aɪ|t|_,aɪ,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
-midnigh',,mdnight,aɪ|t|_,aɪ,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
-tonigh'—get,,tonight,aɪ|t|g,aɪ,t,g,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
-downrigh',,downright,aɪ|t|s,aɪ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
-mi'wanna,,might,aɪ|t|w,aɪ,t,w,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
-righ' away,,right,aɪ|t|ə,aɪ,t,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
-migh',,might,aɪ|t|ʤ,aɪ,t,ʤ,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
-arri'e,,arrive,aɪ|v|æ,aɪ,v,æ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+'ouse,4.0,house,aɪ|h|aʊ,aɪ,h,aʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+'ometown,4.0,hometown,aɪ|h|oʊ,aɪ,h,oʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+'my 'ands,4.0,hands,aɪ|h|æ,aɪ,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+i'ave,4.0,i have,aɪ|h|æ,aɪ,h,æ,v,c,v,2,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+'ove,4.0,i love,aɪ|l|ə,aɪ,l,ə,v,c,v,2,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+i'eed,4.0,need,aɪ|n|i,aɪ,n,i,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+alrigh',4.0,alright,aɪ|t|_,aɪ,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
+midnigh',4.0,mdnight,aɪ|t|_,aɪ,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,diphthong,not_defined,not_defined
+tonigh'—get,4.0,tonight,aɪ|t|g,aɪ,t,g,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+downrigh',4.0,downright,aɪ|t|s,aɪ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
+mi'wanna,4.0,might,aɪ|t|w,aɪ,t,w,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+righ' away,4.0,right,aɪ|t|ə,aɪ,t,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,monophthong,not_defined
+migh',4.0,might,aɪ|t|ʤ,aɪ,t,ʤ,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+arri'e,4.0,arrive,aɪ|v|æ,aɪ,v,æ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
 'ccept,0.0,accept,aɪ|ə|k,aɪ,ə,k,v,v,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,monophthong
 vi'lation,0.0,violation,aɪ|ə|l,aɪ,ə,l,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 try'n,0.0,and,aɪ|ə|n,aɪ,ə,n,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
@@ -92,10 +92,10 @@ s'pect,0.0,expect,aɪ|ɪk|s,aɪ,ɪk,s,v,comb,c,1,middle,not_defined,unvoiced,not
 s'time,1.0,it's,aɪ|ɪt|s,aɪ,ɪt,s,v,comb,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,not_defined
 'xpect,0.0,expect,aɪ|ɪ|k,aɪ,ɪ,k,v,v,c,1,middle,not_defined,unvoiced,not_defined,diphthong,not_defined,monophthong
 'I 'magine,2.0,imagine,aɪ|ɪ|m,aɪ,ɪ,m,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
-'how 'diculous,,ridiculous,aʊ|r|ɪ,aʊ,r,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-abou',,about,aʊ|t|s,aʊ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
-ou' with,,out,aʊ|t|w,aʊ,t,w,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
-abou'the,,about,aʊ|t|ð,aʊ,t,ð,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+'how 'diculous,4.0,ridiculous,aʊ|r|ɪ,aʊ,r,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+abou',4.0,about,aʊ|t|s,aʊ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,diphthong,not_defined,not_defined
+ou' with,4.0,out,aʊ|t|w,aʊ,t,w,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
+abou'the,4.0,about,aʊ|t|ð,aʊ,t,ð,v,c,c,1,middle,not_defined,voiced,unvoiced,diphthong,not_defined,not_defined
 how'm,0.0,am,aʊ|æ|m,aʊ,æ,m,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 bow'r,0.0,bower,aʊ|ə|r,aʊ,ə,r,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 pow'r,0.0,power,aʊ|ə|r,aʊ,ə,r,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
@@ -116,9 +116,9 @@ b'tray,0.0,betray,b|ɪ|t,b,ɪ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_d
 b'tween,0.0,between,b|ɪ|t,b,ɪ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 'afore,2.0,before,d|bi|f,d,bi,f,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 d'nger,1.0,danger,d|eɪ|n,d,eɪ,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
-killed'im,,him,d|h|ɪ,d,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+killed'im,4.0,him,d|h|ɪ,d,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 did'e,3.0,you,d|ju|ʤ,d,ju,ʤ,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
-could''t,,not,d|n|t,d,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+could''t,4.0,not,d|n|t,d,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
 did't,0.0,didn't,d|nə|t,d,nə,t,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 d'worry,1.0,do not,d|oʊnt|w,d,oʊnt,w,c,comb,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 dun',1.0,don't,d|oʊnt|w,d,oʊnt,w,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -127,8 +127,8 @@ d'know,0.0,do,d|uju|n,d,uju,n,c,comb,c,1,middle,voiced,voiced,not_defined,not_de
 whatd'ya,0.0,do,d|u|j,d,u,j,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 d'we,0.0,do,d|u|w,d,u,w,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'd'ng,1.0,doing,d|uɪ|ŋ,d,uɪ,ŋ,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
-'em,,them,d|ð|ɛ,d,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-'emselves,,themselves,d|ð|ɛ,d,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+'em,4.0,them,d|ð|ɛ,d,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+'emselves,4.0,themselves,d|ð|ɛ,d,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 t'helliehound,0.0,the,d|ðə|h,d,ðə,h,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 t'little,0.0,the,d|ðə|l,d,ðə,l,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 t'other,0.0,the,d|ðə|ə,d,ðə,ə,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
@@ -155,8 +155,8 @@ s'pected,0.0,expected,eɪ|ɪk|s,eɪ,ɪk,s,v,comb,c,1,middle,not_defined,unvoiced
 birthday s'when,1.0,is,eɪ|ɪ|z,eɪ,ɪ,z,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 off'a,,you,f|_|j,f,_,j,c,_,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 f'nally,1.0,finally,f|aɪ|n,f,aɪ,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
-'ard,,hard,f|h|ɑ,f,h,ɑ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-af'er,,after,f|t|ə,f,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ard,4.0,hard,f|h|ɑ,f,h,ɑ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+af'er,4.0,after,f|t|ə,f,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 f'rfeit,0.0,forfeit,f|ɔ|r,f,ɔ,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 f'fuck's,0.0,for,f|ər|f,f,ər,f,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 f'gotten,0.0,forgotten,f|ər|g,f,ər,g,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -182,7 +182,7 @@ g'back,1.0,go,g|oʊə|b,g,oʊə,b,c,v,c,1,middle,voiced,voiced,not_defined,not_d
 g'head,3.0,go ahead,g|oʊə|h,g,oʊə,h,c,v,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
 g'way,3.0,go away,g|oʊə|w,g,oʊə,w,c,v,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 g'nna,3.0,going to,g|oʊɪŋtə|t,g,oʊɪŋtə,t,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
-drag'em,,them,g|ð|ɛ,g,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+drag'em,4.0,them,g|ð|ɛ,g,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 bugg'rall,0.0,bugger,g|ə|r,g,ə,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 g't,1.0,get,g|ɛ|t,g,ɛ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 g'tting,1.0,getting,g|ɛ|t,g,ɛ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
@@ -204,12 +204,12 @@ h'rse,1.0,horse,h|ɔ|r,h,ɔ,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_def
 h'rt,1.0,hurt,h|ə|t,h,ə,t,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 h'lo,1.0,hello,h|ɛ|l,h,ɛ,l,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 any'athin,,anything,i|_|θ,i,_,θ,v,_,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
-'arder,,harder,i|h|ɑ,i,h,ɑ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-she'as,,has,i|h|ə,i,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-see'm,,him,i|h|ɪ,i,h,ɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'arder,4.0,harder,i|h|ɑ,i,h,ɑ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+she'as,4.0,has,i|h|ə,i,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+see'm,4.0,him,i|h|ɪ,i,h,ɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 an'thing,0.0,anything,i|i|θ,i,i,θ,v,v,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,monophthong
-gi',,give,i|v|j,i,v,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-e'en,,even,i|v|ɪ,i,v,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+gi',4.0,give,i|v|j,i,v,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+e'en,4.0,even,i|v|ɪ,i,v,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
 any'a,0.0,of,i|əv|j,i,əv,j,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
 n'ything,1.0,anything,i|ɛ|n,i,ɛ,n,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 y'been,3.0,you have,j|uhæv|b,j,uhæv,b,c,comb,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -254,12 +254,12 @@ y'pain,1.0,you're,j|ʊr|p,j,ʊr,p,c,comb,c,1,middle,voiced,unvoiced,not_defined,
 y'welcome,1.0,you're,j|ʊr|w,j,ʊr,w,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 y'awake,1.0,you're,j|ʊr|ə,j,ʊr,ə,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 y'r’,1.0,you're,j|ʊ|r,j,ʊ,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
-block'eads,,blockheads,k|h|ɛ,k,h,ɛ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+block'eads,4.0,blockheads,k|h|ɛ,k,h,ɛ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 k'you,1.0,keep,k|ip|j,k,ip,j,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 ridic'lous,0.0,ridiculous,k|jə|l,k,jə,l,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
-exac'ly,,exactly,k|t|l,k,t,l,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+exac'ly,4.0,exactly,k|t|l,k,t,l,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
 'fter,1.0,after,k|æ|f,k,æ,f,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
-take'em,1.0,them,k|ð|ɛ,k,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+take'em,4.0,them,k|ð|ɛ,k,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 c'mplicated,1.0,complicated,k|ɑ|m,k,ɑ,m,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 practic'ly,0.0,practically,k|ə|l,k,ə,l,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 c'm,1.0,come,k|ə|m,k,ə,m,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -270,20 +270,20 @@ look'n,0.0,looking,k|ɪŋ|d,k,ɪŋ,d,c,comb,c,1,middle,unvoiced,voiced,not_defin
 ligk'n,0.0,licking,k|ɪŋ|j,k,ɪŋ,j,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 fuck'n,0.0,fucking,k|ɪŋ|k,k,ɪŋ,k,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 jok'n,0.0,joking,k|ɪŋ|ə,k,ɪŋ,ə,c,comb,v,1,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
-good'ol,,old,l|d|d,l,d,d,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-ol'fashioned,,old,l|d|f,l,d,f,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-dear'ol,,old,l|d|m,l,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-tol',,told,l|d|m,l,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-chil'ren,,children,l|d|r,l,d,r,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-ol',,old,l|d|s,l,d,s,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-ol'times,,old,l|d|t,l,d,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-hol',,hold,l|d|ɔ,l,d,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-big'ol,,old,l|d|ʤ,l,d,ʤ,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-'umiliation,,humiliation,l|h|j,l,h,j,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-tell'im,,him,l|h|ɪ,l,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-hel',,help,l|p|m,l,p,m,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-al'ight,,alright,l|r|aɪ,l,r,aɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
-stole'em,,them,l|ð|ɛ,l,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+good'ol,4.0,old,l|d|d,l,d,d,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+ol'fashioned,4.0,old,l|d|f,l,d,f,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+dear'ol,4.0,old,l|d|m,l,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+tol',4.0,told,l|d|m,l,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+chil'ren,4.0,children,l|d|r,l,d,r,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+ol',4.0,old,l|d|s,l,d,s,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+ol'times,4.0,old,l|d|t,l,d,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+hol',4.0,hold,l|d|ɔ,l,d,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+big'ol,4.0,old,l|d|ʤ,l,d,ʤ,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+'umiliation,4.0,humiliation,l|h|j,l,h,j,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+tell'im,4.0,him,l|h|ɪ,l,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+hel',4.0,help,l|p|m,l,p,m,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+al'ight,4.0,alright,l|r|aɪ,l,r,aɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
+stole'em,4.0,them,l|ð|ɛ,l,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 powerful'n,0.0,than,l|ðə|n,l,ðə,n,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 l'rd,1.0,lord,l|ɔ|r,l,ɔ,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 bowl'a,0.0,of,l|əv|b,l,əv,b,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -320,12 +320,12 @@ m'by,1.0,maybe,m|eɪ|b,m,eɪ,b,c,v,c,1,middle,voiced,voiced,not_defined,not_defi
 'm'ke,1.0,make,m|eɪ|k,m,eɪ,k,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
 i'ma,3.0,i am going to,m|goʊɪŋtə|b,m,goʊɪŋtə,b,c,comb,c,4,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 i'mma,3.0,i am going to,m|goʊɪŋtə|t,m,goʊɪŋtə,t,c,comb,c,4,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
-some'ow,,somehow,m|h|aʊ,m,h,aʊ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
-c'm'ere,,come here,m|h|i,m,h,i,c,c,v,2,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'e's,,he,m|h|i,m,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+some'ow,4.0,somehow,m|h|aʊ,m,h,aʊ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
+c'm'ere,4.0,come here,m|h|i,m,h,i,c,c,v,2,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'e's,4.0,he,m|h|i,m,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 m'drunk,1.0,me,m|i|d,m,i,d,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 m'acommidation,1.0,me,m|iə|k,m,iə,k,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
-some'ore,,more,m|m|ɔ,m,m,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+some'ore,4.0,more,m|m|ɔ,m,m,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 no'mo,1.0,more,m|oʊr|_,m,oʊr,_,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
 come'er,1.0,over,m|oʊv|ə,m,oʊv,ə,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 m'kay,1.0,okay,m|oʊ|k,m,oʊ,k,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
@@ -340,60 +340,60 @@ rrrm'mber,2.0,remember,m|ɛ|m,m,ɛ,m,c,v,c,1,middle,voiced,voiced,not_defined,no
 harm'n,0.0,in,m|ɪ|n,m,ɪ,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 some 'nitiative,2.0,initiative,m|ɪ|n,m,ɪ,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'nstead,2.0,instead,m|ɪ|n,m,ɪ,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
-some'ing,,something,m|θ|ɪ,m,θ,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+some'ing,4.0,something,m|θ|ɪ,m,θ,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 sum'n,0.0,something,m|θɪ|ŋ,m,θɪ,ŋ,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 n'you,1.0,now,n|aʊ|j,n,aʊ,j,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'when,1.0,now,n|aʊ|w,n,aʊ,w,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'if,1.0,now,n|aʊ|ɪ,n,aʊ,ɪ,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,diphthong
-roun',,round,n|d|_,n,d,_,c,c,_,1,end,voiced,not_defined,voiced,not_defined,not_defined,not_defined
-an',,and,n|d|aɪ,n,d,aɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
-aroun',,around,n|d|f,n,d,f,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-me'n'him,,and,n|d|h,n,d,h,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-n'yeah,,and,n|d|j,n,d,j,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-unnerstan',,understand,n|d|j,n,d,j,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-'n’,,and,n|d|k,n,d,k,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-understan',,understand,n|d|l,n,d,l,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-me'n,,and,n|d|m,n,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-beyon',,beyond,n|d|m,n,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-bad'n,,and,n|d|s,n,d,s,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-n',,and,n|d|w,n,d,w,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-n'that,,and,n|d|ð,n,d,ð,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-foun',,found,n|d|ð,n,d,ð,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
-n'all,,and,n|d|ɔ,n,d,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-un'erstood,,understood,n|d|ə,n,d,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-won'er,,wonder,n|d|ə,n,d,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-measures'n,,and,n|d|ʃ,n,d,ʃ,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
-sssecon',,second,n|d|ʧ,n,d,ʧ,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+roun',4.0,round,n|d|_,n,d,_,c,c,_,1,end,voiced,not_defined,voiced,not_defined,not_defined,not_defined
+an',4.0,and,n|d|aɪ,n,d,aɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,diphthong,not_defined
+aroun',4.0,around,n|d|f,n,d,f,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+me'n'him,4.0,and,n|d|h,n,d,h,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+n'yeah,4.0,and,n|d|j,n,d,j,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+unnerstan',4.0,understand,n|d|j,n,d,j,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+'n’,4.0,and,n|d|k,n,d,k,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+understan',4.0,understand,n|d|l,n,d,l,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+me'n,4.0,and,n|d|m,n,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+beyon',4.0,beyond,n|d|m,n,d,m,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+bad'n,4.0,and,n|d|s,n,d,s,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+n',4.0,and,n|d|w,n,d,w,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+n'that,4.0,and,n|d|ð,n,d,ð,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+foun',4.0,found,n|d|ð,n,d,ð,c,c,c,1,middle,voiced,voiced,voiced,not_defined,not_defined,not_defined
+n'all,4.0,and,n|d|ɔ,n,d,ɔ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+un'erstood,4.0,understood,n|d|ə,n,d,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+won'er,4.0,wonder,n|d|ə,n,d,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+measures'n,4.0,and,n|d|ʃ,n,d,ʃ,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+sssecon',4.0,second,n|d|ʧ,n,d,ʧ,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
 when'd,1.0,did,n|dɪ|d,n,dɪ,d,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
-down'ere,,here,n|h|i,n,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'been 'elping,,helping,n|h|ɛ,n,h,ɛ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-know'im,,him,n|h|ɪ,n,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-in'is,,his,n|h|ɪ,n,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+down'ere,4.0,here,n|h|i,n,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'been 'elping,4.0,helping,n|h|ɛ,n,h,ɛ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+know'im,4.0,him,n|h|ɪ,n,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+in'is,4.0,his,n|h|ɪ,n,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 an'mor,0.0,anymore,n|i|m,n,i,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 an'athin,0.0,anything,n|i|θ,n,i,θ,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
-on'y,,only,n|l|i,n,l,i,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+on'y,4.0,only,n|l|i,n,l,i,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 n'body,1.0,nobody,n|oʊ|b,n,oʊ,b,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 n'more,1.0,no,n|oʊ|m,n,oʊ,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,diphthong
 don'ave,,don't have,n|th|æ,n,th,æ,c,comb,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 ain'tcha,0.0,you,n|tju|_,n,tju,_,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
 don'cha,0.0,you,n|tju|θ,n,tju,θ,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 wan'a,,to,n|tt|ə,n,tt,ə,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
-differn',,different,n|t|_,n,t,_,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
-wouldn'ae,,wouldn't,n|t|_,n,t,_,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
-wouldn',,wouldn't,n|t|b,n,t,b,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-wen',,went,n|t|d,n,t,d,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-don'go,,don't,n|t|g,n,t,g,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-hadn',,hadn't,n|t|i,n,t,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-aren'chya,,aren't,n|t|j,n,t,j,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-don',,don't,n|t|w,n,t,w,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
-couldn',,couldn't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-don'understand,,don't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-in'eractions,,interactions,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-weren',3.0,weren't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-wan' it,,want,n|t|ɪ,n,t,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-wan'ed,,wanted,n|t|ɪ,n,t,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-t'last,,the,n|ð|ə,n,ð,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-in'em,,them,n|ð|ɛ,n,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+differn',4.0,different,n|t|_,n,t,_,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
+wouldn'ae,4.0,wouldn't,n|t|_,n,t,_,c,c,_,1,end,voiced,not_defined,unvoiced,not_defined,not_defined,not_defined
+wouldn',4.0,wouldn't,n|t|b,n,t,b,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+wen',4.0,went,n|t|d,n,t,d,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+don'go,4.0,don't,n|t|g,n,t,g,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+hadn',4.0,hadn't,n|t|i,n,t,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+aren'chya,4.0,aren't,n|t|j,n,t,j,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+don',4.0,don't,n|t|w,n,t,w,c,c,c,1,middle,voiced,voiced,unvoiced,not_defined,not_defined,not_defined
+couldn',4.0,couldn't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+don'understand,4.0,don't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+in'eractions,4.0,interactions,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+weren',4.0,weren't,n|t|ə,n,t,ə,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wan' it,4.0,want,n|t|ɪ,n,t,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wan'ed,4.0,wanted,n|t|ɪ,n,t,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+t'last,4.0,the,n|ð|ə,n,ð,ə,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+in'em,4.0,them,n|ð|ɛ,n,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 t'kitchen,0.0,the,n|ðə|_,n,ðə,_,c,comb,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,not_defined
 wasn'e,3.0,wasn't he,n|ɑth|i,n,ɑth,i,c,comb,v,2,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 n'much,0.0,not,n|ɑt|m,n,ɑt,m,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -423,21 +423,21 @@ nuth'n,0.0,nothing,n|ɪ|ŋ,n,ɪ,ŋ,c,v,c,1,middle,voiced,voiced,not_defined,not_
 beginn',0.0,beginning,n|ɪŋ|t,n,ɪŋ,t,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 burn'n,0.0,burning,n|ɪŋ|ɪ,n,ɪŋ,ɪ,c,comb,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,not_defined
 so'm,1.0,i'm,oʊ|aɪ|m,oʊ,aɪ,m,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,diphthong
-'ood,,good,oʊ|g|ʊ,oʊ,g,ʊ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-o'ay,,okay,oʊ|k|eɪ,oʊ,k,eɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
-ho'y,,holy,oʊ|l|i,oʊ,l,i,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-o'er-crows,,over,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-o'erhanging,,overhanging,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-o'erpowered,,overpowered,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-o'erthrown,,overthrown,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
-show'em,,them,oʊ|ð|ɛ,oʊ,ð,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+'ood,4.0,good,oʊ|g|ʊ,oʊ,g,ʊ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'ay,4.0,okay,oʊ|k|eɪ,oʊ,k,eɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,diphthong,diphthong,not_defined
+ho'y,4.0,holy,oʊ|l|i,oʊ,l,i,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'er-crows,4.0,over,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erhanging,4.0,overhanging,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erpowered,4.0,overpowered,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+o'erthrown,4.0,overthrown,oʊ|v|ə,oʊ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
+show'em,4.0,them,oʊ|ð|ɛ,oʊ,ð,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,diphthong,monophthong,not_defined
 t'one,0.0,the,oʊ|ðə|w,oʊ,ðə,w,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
 throw'n,0.0,an,oʊ|ə|n,oʊ,ə,n,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 low'ring,0.0,lowering,oʊ|ə|r,oʊ,ə,r,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 show'n,0.0,showing,oʊ|ɪ|ŋ,oʊ,ɪ,ŋ,v,v,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,monophthong
 go'n,0.0,going on,oʊ|ɪŋ|ɔ,oʊ,ɪŋ,ɔ,v,comb,v,2,middle,not_defined,not_defined,not_defined,diphthong,monophthong,not_defined
 p'rate,1.0,pirate,p|aɪ|r,p,aɪ,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
-keep'em,,them,p|ð|ɛ,p,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+keep'em,4.0,them,p|ð|ɛ,p,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 prop'ly,0.0,properly,p|ər|l,p,ər,l,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 comp'ny,0.0,company,p|ə|n,p,ə,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 happ'n,0.0,happen,p|ə|n,p,ə,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -454,19 +454,19 @@ stup'd,0.0,stupid,p|ɪ|d,p,ɪ,d,c,v,c,1,middle,unvoiced,voiced,not_defined,not_d
 p'culiar,0.0,peculiar,p|ɪ|k,p,ɪ,k,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 alr'ght,2.0,alright,r|aɪ|t,r,aɪ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
 'spite,0.0,despite,r|dɪ|s,r,dɪ,s,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
-'ere,,here,r|h|i,r,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-per'aps,,perhaps,r|h|æ,r,h,æ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'orses,,horses,r|h|ɔ,r,h,ɔ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-sure 'arry,,harry,r|h|ɛ,r,h,ɛ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-for'im,,him,r|h|ɪ,r,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'imself,,himself,r|h|ɪ,r,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ere,4.0,here,r|h|i,r,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+per'aps,4.0,perhaps,r|h|æ,r,h,æ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'orses,4.0,horses,r|h|ɔ,r,h,ɔ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+sure 'arry,4.0,harry,r|h|ɛ,r,h,ɛ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+for'im,4.0,him,r|h|ɪ,r,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'imself,4.0,himself,r|h|ɪ,r,h,ɪ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 err'body,0.0,everybody,r|i|b,r,i,b,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 ver',0.0,very,r|i|p,r,i,p,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 ever'where,0.0,everywhere,r|i|w,r,i,w,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
-mor'ing,,morning,r|n|ɪ,r,n,ɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+mor'ing,4.0,morning,r|n|ɪ,r,n,ɪ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 'nother 'un,1.0,one,r|wə|n,r,wə,n,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 where'm,0.0,am,r|æ|m,r,æ,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
-for'em,,them,r|ð|ɛ,r,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+for'em,4.0,them,r|ð|ɛ,r,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 more'n,0.0,than,r|ðə|n,r,ðə,n,c,comb,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,not_defined
 p'rbly,1.0,probably,r|ɑ|b,r,ɑ,b,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'better 'en,0.0,on,r|ɔ|n,r,ɔ,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -485,22 +485,22 @@ r'lax,0.0,relax,r|ɪ|l,r,ɪ,l,c,v,c,1,middle,voiced,voiced,not_defined,not_defin
 r'member,0.0,remember,r|ɪ|m,r,ɪ,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 s'cause,0.0,it is because,s|bɪ|k,s,bɪ,k,c,comb,c,3,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 s'vn,1.0,saving,s|eɪ|v,s,eɪ,v,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,diphthong
-this'ere,,here,s|h|i,s,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+this'ere,4.0,here,s|h|i,s,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 c'you,1.0,see,s|i|j,s,i,j,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
-as'me,,ask,s|k|m,s,k,m,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-juss',,just,s|t|b,s,t,b,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-mus',,must,s|t|b,s,t,b,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-mos',,most,s|t|d,s,t,d,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-almos',,almost,s|t|f,s,t,f,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-bes',,best,s|t|g,s,t,g,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-like--jus',,just,s|t|l,s,t,l,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
-firs',,first,s|t|p,s,t,p,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-jus',,just,s|t|s,s,t,s,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-las',,last,s|t|t,s,t,t,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-leas',,least,s|t|t,s,t,t,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-jus'a,,just,s|t|ə,s,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-wors'thing,,worst,s|t|θ,s,t,θ,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
-piss'em,,them,s|ð|ɛ,s,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+as'me,4.0,ask,s|k|m,s,k,m,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+juss',4.0,just,s|t|b,s,t,b,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+mus',4.0,must,s|t|b,s,t,b,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+mos',4.0,most,s|t|d,s,t,d,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+almos',4.0,almost,s|t|f,s,t,f,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+bes',4.0,best,s|t|g,s,t,g,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+like--jus',4.0,just,s|t|l,s,t,l,c,c,c,1,middle,unvoiced,voiced,unvoiced,not_defined,not_defined,not_defined
+firs',4.0,first,s|t|p,s,t,p,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+jus',4.0,just,s|t|s,s,t,s,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+las',4.0,last,s|t|t,s,t,t,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+leas',4.0,least,s|t|t,s,t,t,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+jus'a,4.0,just,s|t|ə,s,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+wors'thing,4.0,worst,s|t|θ,s,t,θ,c,c,c,1,middle,unvoiced,unvoiced,unvoiced,not_defined,not_defined,not_defined
+piss'em,4.0,them,s|ð|ɛ,s,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 worse'n,0.0,than,s|ðə|n,s,ðə,n,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 t'name,0.0,the,s|ðə|n,s,ðə,n,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 s'rrows,1.0,sorrows,s|ɑ|r,s,ɑ,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -527,25 +527,25 @@ plac''s,0.0,place is,s|ɪ|z,s,ɪ,z,c,v,c,2,middle,unvoiced,voiced,not_defined,no
 t'red,1.0,tired,t|aɪə|r,t,aɪə,r,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 just'cause,0.0,because,t|bɪ|k,t,bɪ,k,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 tak',1.0,take,t|eɪ|k,t,eɪ,k,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,diphthong
-right'ere,,here,t|h|i,t,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-get'im,,him,t|h|i,t,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-av',,have,t|h|æ,t,h,æ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'ardly,,hardly,t|h|ɑ,t,h,ɑ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'elp,,help,t|h|ɛ,t,h,ɛ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-hit'im,,him,t|h|ɪ,t,h,ɪ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+right'ere,4.0,here,t|h|i,t,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+get'im,4.0,him,t|h|i,t,h,i,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+av',4.0,have,t|h|æ,t,h,æ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ardly,4.0,hardly,t|h|ɑ,t,h,ɑ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'elp,4.0,help,t|h|ɛ,t,h,ɛ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+hit'im,4.0,him,t|h|ɪ,t,h,ɪ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 get'cha,0.0,you,t|ju|_,t,ju,_,c,comb,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,not_defined
 don'tcha,0.0,you,t|ju|s,t,ju,s,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 it'cha,1.0,you,t|ju|w,t,ju,w,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
-want'cha,,you,t|j|u,t,j,u,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
-not'a,,to,t|t|ə,t,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+want'cha,4.0,you,t|j|u,t,j,u,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+not'a,4.0,to,t|t|ə,t,t,ə,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 gett'n,0.0,getting,t|tɪŋ|_,t,tɪŋ,_,c,comb,_,1,end,unvoiced,not_defined,not_defined,not_defined,not_defined,not_defined
 get'n,0.0,getting,t|tɪŋ|ð,t,tɪŋ,ð,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 'y,1.0,you,t|u|j,t,u,j,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 int',0.0,into,t|u|ð,t,u,ð,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
-smart'un,,one,t|w|ə,t,w,ə,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+smart'un,4.0,one,t|w|ə,t,w,ə,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 couldn'ta,0.0,have,t|æv|n,t,æv,n,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
-about'em,,them,t|ð|ɛ,t,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
-out'ere,,there,t|ð|ɛ,t,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+about'em,4.0,them,t|ð|ɛ,t,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
+out'ere,4.0,there,t|ð|ɛ,t,ð,ɛ,c,c,v,1,middle,unvoiced,not_defined,voiced,not_defined,monophthong,not_defined
 d'truth,0.0,the,t|ðə|t,t,ðə,t,c,comb,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 t'ave,0.0,to have,t|əh|æ,t,əh,æ,c,comb,v,2,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
 oft' been,0.0,often,t|ən|b,t,ən,b,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
@@ -599,21 +599,21 @@ act'n,0.0,acting,t|ɪ|n,t,ɪ,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_de
 right'n'front,0.0,in,t|ɪ|n,t,ɪ,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 got't,0.0,it,t|ɪ|t,t,ɪ,t,c,v,c,1,middle,unvoiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 lett'n,0.0,letting,t|ɪŋ|ə,t,ɪŋ,ə,c,comb,v,1,middle,unvoiced,not_defined,not_defined,not_defined,monophthong,not_defined
-'ear,,hear,u|h|i,u,h,i,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'ad,,had,u|h|æ,u,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'eard,,heard,u|h|ə,u,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'eavy,,heavy,u|h|ɛ,u,h,ɛ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'ear,4.0,hear,u|h|i,u,h,i,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'ad,4.0,had,u|h|æ,u,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eard,4.0,heard,u|h|ə,u,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eavy,4.0,heavy,u|h|ɛ,u,h,ɛ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 you'n,0.0,and,u|ə|n,u,ə,n,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 e'nythin,,anything,u|ɛ|n,u,ɛ,n,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 'sploded,0.0,you exploded,u|ɪk|s,u,ɪk,s,v,comb,c,2,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
 s'just-you,1.0,it's,u|ɪt|s,u,ɪt,s,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
 r'you'n,0.0,are you in,u|ɪ|n,u,ɪ,n,v,v,c,3,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 do'n,0.0,doing,u|ɪ|ŋ,u,ɪ,ŋ,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
-'ou,,you,v|j|u,v,j,u,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
-have't,,not,v|n|t,v,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+'ou,4.0,you,v|j|u,v,j,u,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+have't,4.0,not,v|n|t,v,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
 ev'thing,0.0,everything,v|ri|θ,v,ri,θ,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 'ctually,1.0,actually,v|æ|k,v,æ,k,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
-give'em,,them,v|ð|ɛ,v,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+give'em,4.0,them,v|ð|ɛ,v,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 trav'lin's,0.0,travelling,v|ə|l,v,ə,l,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'mericansss,0.0,americans,v|ə|m,v,ə,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 giv'n,0.0,given,v|ə|n,v,ə,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -645,11 +645,11 @@ w'rings,0.0,with,w|ɪθ|r,w,ɪθ,r,c,comb,c,1,middle,voiced,voiced,not_defined,n
 w'man,1.0,woman,w|ʊ|m,w,ʊ,m,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 e'e,1.0,eye,z|aɪ|_,z,aɪ,_,c,v,_,1,end,voiced,not_defined,not_defined,not_defined,not_defined,diphthong
 was'a saying,1.0,i,z|aɪ|s,z,aɪ,s,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,diphthong
-'eart,,heart,z|h|ɑ,z,h,ɑ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'orrible,,horrible,z|h|ɔ,z,h,ɔ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-has't,,hasn't,z|n|t,z,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
+'eart,4.0,heart,z|h|ɑ,z,h,ɑ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'orrible,4.0,horrible,z|h|ɔ,z,h,ɔ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+has't,4.0,hasn't,z|n|t,z,n,t,c,c,c,1,middle,voiced,unvoiced,voiced,not_defined,not_defined,not_defined
 'pposed,0.0,supposed,z|sə|p,z,sə,p,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
-use'em,,them,z|ð|ɛ,z,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
+use'em,4.0,them,z|ð|ɛ,z,ð,ɛ,c,c,v,1,middle,voiced,not_defined,voiced,not_defined,monophthong,not_defined
 'was boutta,0.0,about to,z|ə|b,z,ə,b,c,v,c,2,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'n'accident,0.0,an,z|ə|n,z,ə,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 pois'n,0.0,poison,z|ə|n,z,ə,n,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -657,11 +657,11 @@ reas'nable,0.0,reasonable,z|ə|n,z,ə,n,c,v,c,1,middle,voiced,voiced,not_defined
 mis'rable,0.0,miserable,z|ə|r,z,ə,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 'xample,0.0,example,z|ɪ|g,z,ɪ,g,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 was'et,0.0,it,z|ɪ|t,z,ɪ,t,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
-naaty'ol,,nasty old,æ|s|t,æ,s,t,v,c,c,2,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-at'chya,,at you,æ|t|j,æ,t,j,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-a'me,,at,æ|t|m,æ,t,m,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-tha''s,,that's,æ|t|s,æ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-ha'e,,have,æ|v|j,æ,v,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+naaty'ol,4.0,nasty old,æ|s|t,æ,s,t,v,c,c,2,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+at'chya,4.0,at you,æ|t|j,æ,t,j,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+a'me,4.0,at,æ|t|m,æ,t,m,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+tha''s,4.0,that's,æ|t|s,æ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+ha'e,4.0,have,æ|v|j,æ,v,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
 th'eye,0.0,the,ð|ə|a,ð,ə,a,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 t'birthday,0.0,the,ð|ə|b,ð,ə,b,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 t'covens,0.0,the,ð|ə|c,ð,ə,k,c,v,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
@@ -690,8 +690,8 @@ th'zombie,0.0,the,ð|ə|z,ð,ə,z,c,v,c,1,middle,voiced,voiced,not_defined,not_d
 th'unworthy,0.0,the,ð|ə|ə,ð,ə,ə,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 t'end,0.0,the,ð|ə|ɛ,ð,ə,ɛ,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
 th'inconstant,0.0,the,ð|ə|ɪ,ð,ə,ɪ,c,v,v,1,middle,voiced,not_defined,not_defined,not_defined,monophthong,monophthong
-getting'im,,him,ŋ|h|i,ŋ,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
-'ome,,home,ŋ|h|oʊ,ŋ,h,oʊ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
+getting'im,4.0,him,ŋ|h|i,ŋ,h,i,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+'ome,4.0,home,ŋ|h|oʊ,ŋ,h,oʊ,c,c,v,1,middle,voiced,not_defined,unvoiced,not_defined,diphthong,not_defined
 tryin'na,0.0,trying to,ŋ|tə|h,ŋ,tə,h,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 t'all,0.0,at all,ŋ|æ|t,ŋ,æ,t,c,v,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,monophthong
 t'hotel,0.0,the,ŋ|ðə|h,ŋ,ðə,h,c,comb,c,1,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
@@ -699,93 +699,93 @@ t'hotel,0.0,the,ŋ|ðə|h,ŋ,ðə,h,c,comb,c,1,middle,voiced,unvoiced,not_define
 nothing—s'a,0.0,it is,ŋ|ɪt|s,ŋ,ɪt,s,c,comb,c,2,middle,voiced,unvoiced,not_defined,not_defined,not_defined,not_defined
 go'ssake,,god's sake,ɑ|dz|s,ɑ,dz,s,v,comb,c,2,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
 gotch'u,,got you,ɑ|tj|u,ɑ,tj,u,v,comb,v,2,middle,not_defined,not_defined,not_defined,monophthong,monophthong,not_defined
-would'nae,,would not,ɑ|t|b,ɑ,t,b,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-wouldna',,not,ɑ|t|l,ɑ,t,l,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+would'nae,4.0,would not,ɑ|t|b,ɑ,t,b,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wouldna',4.0,not,ɑ|t|l,ɑ,t,l,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
 a'ight,,alright,ɔ|lr|aɪ,ɔ,lr,aɪ,v,comb,v,1,middle,not_defined,not_defined,not_defined,monophthong,diphthong,not_defined
-a'right,,alright,ɔ|l|r,ɔ,l,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-mo',,more,ɔ|r|_,ɔ,r,_,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
-wa'er,,water,ɔ|t|ə,ɔ,t,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-wro'n,,wrong,ɔ|ŋ|_,ɔ,ŋ,_,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
+a'right,4.0,alright,ɔ|l|r,ɔ,l,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+mo',4.0,more,ɔ|r|_,ɔ,r,_,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
+wa'er,4.0,water,ɔ|t|ə,ɔ,t,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+wro'n,4.0,wrong,ɔ|ŋ|_,ɔ,ŋ,_,v,c,_,1,end,not_defined,not_defined,voiced,monophthong,not_defined,not_defined
 enjoy'n,,enjoying,ɔɪ|ɪŋ|ð,ɔɪ,ɪŋ,ð,v,comb,c,1,middle,not_defined,voiced,not_defined,diphthong,not_defined,not_defined
-'ide,,hide,ə|h|aɪ,ə,h,aɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
-'ousekeepah,,houskeeper,ə|h|aʊ,ə,h,aʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
-'uman,,human,ə|h|j,ə,h,j,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-'andsome,,handsome,ə|h|æ,ə,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'orseman,,horseman,ə|h|ɔ,ə,h,ɔ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'urry,,hurry,ə|h|ə,ə,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'eaven,,heaven,ə|h|ɛ,ə,h,ɛ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-to'im,,him,ə|h|ɪ,ə,h,ɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-fra',,from,ə|m|h,ə,m,h,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-seve',,seven,ə|n|j,ə,n,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-ca',,can,ə|n|s,ə,n,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-neve',,never,ə|r|d,ə,r,d,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-wate',,water,ə|r|ɪ,ə,r,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-oddah',,other,ə|r|ʃ,ə,r,ʃ,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+'ide,4.0,hide,ə|h|aɪ,ə,h,aɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'ousekeepah,4.0,houskeeper,ə|h|aʊ,ə,h,aʊ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'uman,4.0,human,ə|h|j,ə,h,j,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+'andsome,4.0,handsome,ə|h|æ,ə,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'orseman,4.0,horseman,ə|h|ɔ,ə,h,ɔ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'urry,4.0,hurry,ə|h|ə,ə,h,ə,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'eaven,4.0,heaven,ə|h|ɛ,ə,h,ɛ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+to'im,4.0,him,ə|h|ɪ,ə,h,ɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+fra',4.0,from,ə|m|h,ə,m,h,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+seve',4.0,seven,ə|n|j,ə,n,j,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+ca',4.0,can,ə|n|s,ə,n,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+neve',4.0,never,ə|r|d,ə,r,d,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+wate',4.0,water,ə|r|ɪ,ə,r,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+oddah',4.0,other,ə|r|ʃ,ə,r,ʃ,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
 whadd'you,,what do,ə|td|j,ə,td,j,v,comb,c,2,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
-m'wha,,i am what,ə|t|_,ə,t,_,v,c,_,3,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
-wha',,what,ə|t|_,ə,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
-shouldn'a,,not,ə|t|b,ə,t,b,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-bu',,but,ə|t|h,ə,t,h,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-tha',,that,ə|t|m,ə,t,m,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-'thass,,that's,ə|t|s,ə,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-whus',,what's,ə|t|s,ə,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-must'a,,have,ə|v|b,ə,v,b,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-sons-o'-bitches,,of,ə|v|b,ə,v,b,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'demon,,of,ə|v|d,ə,v,d,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'hell,,of,ə|v|h,ə,v,h,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-o'kindness,,of,ə|v|k,ə,v,k,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-o'course,,of course,ə|v|k,ə,v,k,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-should'a,,have,ə|v|l,ə,v,l,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'light,,of,ə|v|l,ə,v,l,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-one'a,,of,ə|v|m,ə,v,m,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'nudgers,,of,ə|v|n,ə,v,n,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'seconds,,of,ə|v|s,ə,v,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-lotsa',,lots of,ə|v|t,ə,v,t,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-tug-o'-war,,of,ə|v|w,ə,v,w,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'them,,of,ə|v|ð,ə,v,ð,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-o'us,,of,ə|v|ɛ,ə,v,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+m'wha,4.0,i am what,ə|t|_,ə,t,_,v,c,_,3,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
+wha',4.0,what,ə|t|_,ə,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
+shouldn'a,4.0,not,ə|t|b,ə,t,b,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+bu',4.0,but,ə|t|h,ə,t,h,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+tha',4.0,that,ə|t|m,ə,t,m,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+'thass,4.0,that's,ə|t|s,ə,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+whus',4.0,what's,ə|t|s,ə,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+must'a,4.0,have,ə|v|b,ə,v,b,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+sons-o'-bitches,4.0,of,ə|v|b,ə,v,b,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'demon,4.0,of,ə|v|d,ə,v,d,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'hell,4.0,of,ə|v|h,ə,v,h,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+o'kindness,4.0,of,ə|v|k,ə,v,k,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+o'course,4.0,of course,ə|v|k,ə,v,k,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+should'a,4.0,have,ə|v|l,ə,v,l,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'light,4.0,of,ə|v|l,ə,v,l,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+one'a,4.0,of,ə|v|m,ə,v,m,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'nudgers,4.0,of,ə|v|n,ə,v,n,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'seconds,4.0,of,ə|v|s,ə,v,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+lotsa',4.0,lots of,ə|v|t,ə,v,t,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+tug-o'-war,4.0,of,ə|v|w,ə,v,w,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'them,4.0,of,ə|v|ð,ə,v,ð,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+o'us,4.0,of,ə|v|ɛ,ə,v,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
 th'mead,0.0,the,ə|ðə|m,ə,ðə,m,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
 t'native,0.0,the,ə|ðə|n,ə,ðə,n,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
 t'pilgrims,0.0,the,ə|ðə|p,ə,ðə,p,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
-u'cle,,uncle,ə|ŋ|k,ə,ŋ,k,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+u'cle,4.0,uncle,ə|ŋ|k,ə,ŋ,k,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
 'ther,1.0,other,ə|ə|ð,ə,ə,ð,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 'quisition,2.0,inquisition,ə|ɪ|n,ə,ɪ,n,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
-le'ss,,let's,ɛ|t|s,ɛ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-ge',,get,ɛ|t|t,ɛ,t,t,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
-le',,let us,ɛ|t|ɛ,ɛ,t,ɛ,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-e'rybody,,everybody,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-e'ryone,,everyone,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-e'rythi'n,,everything,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-de'il,,devil,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-e'er,,ever,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-ne'er-do-wells,,never,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-whate'er,,whatever,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-where'er,,wherever,ɛ|v|ɛ,ɛ,v,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+le'ss,4.0,let's,ɛ|t|s,ɛ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+ge',4.0,get,ɛ|t|t,ɛ,t,t,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+le',4.0,let us,ɛ|t|ɛ,ɛ,t,ɛ,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+e'rybody,4.0,everybody,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+e'ryone,4.0,everyone,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+e'rythi'n,4.0,everything,ɛ|v|r,ɛ,v,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+de'il,4.0,devil,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+e'er,4.0,ever,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+ne'er-do-wells,4.0,never,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+whate'er,4.0,whatever,ɛ|v|ə,ɛ,v,ə,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+where'er,4.0,wherever,ɛ|v|ɛ,ɛ,v,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
 dinnit',0.0,didn't,ɪ|dnə|t,ɪ,dnə,t,v,comb,c,1,middle,not_defined,unvoiced,not_defined,monophthong,not_defined,not_defined
-be'ind,,behind,ɪ|h|aɪ,ɪ,h,aɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
-'appy,,happy,ɪ|h|æ,ɪ,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-'oliday,,holiday,ɪ|h|ɑ,ɪ,h,ɑ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
-hi'self,,himself,ɪ|m|s,ɪ,m,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-poi't,,point,ɪ|n|t,ɪ,n,t,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-bi' flash,,bit,ɪ|t|s,ɪ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
+be'ind,4.0,behind,ɪ|h|aɪ,ɪ,h,aɪ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,diphthong,not_defined
+'appy,4.0,happy,ɪ|h|æ,ɪ,h,æ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+'oliday,4.0,holiday,ɪ|h|ɑ,ɪ,h,ɑ,v,c,v,1,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+hi'self,4.0,himself,ɪ|m|s,ɪ,m,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+poi't,4.0,point,ɪ|n|t,ɪ,n,t,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+bi' flash,4.0,bit,ɪ|t|s,ɪ,t,s,v,c,c,1,middle,not_defined,unvoiced,unvoiced,monophthong,not_defined,not_defined
 'lil,0.0,little,ɪ|tə|l,ɪ,tə,l,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
-in'it,,is not,ɪ|z|n,ɪ,z,n,v,c,c,2,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-thi'n,,thing,ɪ|ŋ|aɪ,ɪ,ŋ,aɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,diphthong,not_defined
-tryin'ta,,trying to,ɪ|ŋ|t,ɪ,ŋ,t,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
+in'it,4.0,is not,ɪ|z|n,ɪ,z,n,v,c,c,2,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+thi'n,4.0,thing,ɪ|ŋ|aɪ,ɪ,ŋ,aɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,diphthong,not_defined
+tryin'ta,4.0,trying to,ɪ|ŋ|t,ɪ,ŋ,t,v,c,c,2,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
 to 'bliterate,0.0,obliterate,ɪ|ə|b,ɪ,ə,b,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 holy'n,0.0,and,ɪ|ə|n,ɪ,ə,n,v,v,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,monophthong
 stay'n,0.0,staying,ɪ|ɪŋ|w,ɪ,ɪŋ,w,v,comb,c,1,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
-wit'ja,,with you,ɪ|θ|j,ɪ,θ,j,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-wiv',,with,ɪ|θ|ð,ɪ,θ,ð,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wit'ja,4.0,with you,ɪ|θ|j,ɪ,θ,j,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+wiv',4.0,with,ɪ|θ|ð,ɪ,θ,ð,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
 wi'em,1.0,with them,ɪ|θð|ɛ,ɪ,θð,ɛ,v,comb,v,2,middle,not_defined,not_defined,not_defined,monophthong,monophthong,not_defined
 fish'n,0.0,and,ʃ|ə|n,ʃ,ə,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 profesh'nl,0.0,professional,ʃ|ə|n,ʃ,ə,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 hellish'nfernal,2.0,infernal,ʃ|ɪ|n,ʃ,ɪ,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 sh' do,1.0,should,ʃ|ʊd|d,ʃ,ʊd,d,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
-goo',,good,ʊ|d|r,ʊ,d,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
-cou',,could,ʊ|d|ɛ,ʊ,d,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
-'luh,,look like,ʊ|k|l,ʊ,k,l,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
-pu' into,,put into,ʊ|t|ɪ,ʊ,t,ɪ,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
+goo',4.0,good,ʊ|d|r,ʊ,d,r,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
+cou',4.0,could,ʊ|d|ɛ,ʊ,d,ɛ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
+'luh,4.0,look like,ʊ|k|l,ʊ,k,l,v,c,c,2,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
+pu' into,4.0,put into,ʊ|t|ɪ,ʊ,t,ɪ,v,c,v,2,middle,not_defined,not_defined,unvoiced,monophthong,monophthong,not_defined
 ang'l,1.0,angel,ʤ|ə|l,ʤ,ə,l,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 dang'r,1.0,danger,ʤ|ə|r,ʤ,ə,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
 dang'rous,1.0,dangerous,ʤ|ə|r,ʤ,ə,r,c,v,c,1,middle,voiced,voiced,not_defined,not_defined,not_defined,monophthong
@@ -797,7 +797,7 @@ bunch'a,0.0,of,ʧ|əv|l,ʧ,əv,l,c,comb,c,1,middle,unvoiced,voiced,not_defined,n
 cent'ries,0.0,centuries,ʧ|ə|r,ʧ,ə,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 nach'ral,0.0,natural,ʧ|ə|r,ʧ,ə,r,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 watch'n,0.0,watching,ʧ|ɪ|ŋ,ʧ,ɪ,ŋ,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
-with'im,1.0,him,θ|h|ɪ,θ,h,ɪ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
+with'im,4.0,him,θ|h|ɪ,θ,h,ɪ,c,c,v,1,middle,unvoiced,not_defined,unvoiced,not_defined,monophthong,not_defined
 with'm,1.0,them,θ|ðɛ|m,θ,ðɛ,m,c,comb,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,not_defined
 death'f,0.0,of,θ|ə|v,θ,ə,v,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
 'ncre'ble,2.0,incredible,θ|ɪ|n,θ,ɪ,n,c,v,c,1,middle,unvoiced,voiced,not_defined,not_defined,not_defined,monophthong
