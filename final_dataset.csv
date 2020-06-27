@@ -54,7 +54,7 @@ s'far,0.0,so,_|ə|s,_,ə,s,_,v,c,1,beginning,not_defined,unvoiced,not_defined,no
 'spect,0.0,expect,_|ɪk|s,_,ɪk,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'splain,0.0,explain,_|ɪk|s,_,ɪk,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 'splode,0.0,explode,_|ɪk|s,_,ɪk,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
-'shour,1.0,it's,_|ɪts|ɑr,_,ɪts,ɑr,_,comb,comb,1,beginning,not_defined,not_defined,not_defined,not_defined,not_defined,not_defined
+'shour,1.0,it's,_|ɪts|ɑ,_,ɪts,ɑ,_,comb,v,1,beginning,not_defined,not_defined,not_defined,not_defined,monophthong,not_defined
 s'means,1.0,it,_|ɪt|m,_,ɪt,m,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
 s'part,1.0,it's,_|ɪt|s,_,ɪt,s,_,comb,c,1,beginning,not_defined,unvoiced,not_defined,not_defined,not_defined,not_defined
 s'was,1.0,it,_|ɪt|w,_,ɪt,w,_,comb,c,1,beginning,not_defined,voiced,not_defined,not_defined,not_defined,not_defined
@@ -721,7 +721,7 @@ ca',4.0,can,ə|n|s,ə,n,s,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong
 neve',4.0,never,ə|r|d,ə,r,d,v,c,c,1,middle,not_defined,voiced,voiced,monophthong,not_defined,not_defined
 wate',4.0,water,ə|r|ɪ,ə,r,ɪ,v,c,v,1,middle,not_defined,not_defined,voiced,monophthong,monophthong,not_defined
 oddah',4.0,other,ə|r|ʃ,ə,r,ʃ,v,c,c,1,middle,not_defined,unvoiced,voiced,monophthong,not_defined,not_defined
-whadd'you,4.0,what do,_|ɪts|ɑ,ə,td,ɑ,v,comb,v,2,middle,not_defined,voiced,not_defined,monophthong,monophthong,not_defined
+whadd'you,4.0,what do,ə|td|j,ə,td,j,v,comb,c,2,middle,not_defined,voiced,not_defined,monophthong,not_defined,not_defined
 m'wha,4.0,i am what,ə|t|_,ə,t,_,v,c,_,3,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
 wha',4.0,what,ə|t|_,ə,t,_,v,c,_,1,end,not_defined,not_defined,unvoiced,monophthong,not_defined,not_defined
 shouldn'a,4.0,not,ə|t|b,ə,t,b,v,c,c,1,middle,not_defined,voiced,unvoiced,monophthong,not_defined,not_defined
